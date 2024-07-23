@@ -1,0 +1,19 @@
+Command RunKit
+
+set env:
+
+source /cvmfs/sft.cern.ch/lcg/views/setupViews.sh LCG_102 x86_64-centos7-gcc11-opt
+
+
+#RunKit muTau:
+python RunKit/skim_tree.py --input "/eos/user/e/emartinv/cmt/Categorization/ul_2018_v10/tt_dl/cat_SR/SR_3" --output /eos/user/e/emartinv/cmt/Sync/test/TTTo2L2Nu_CIEMAT_test1.root --input-tree Events --sel 'pairType == 0 && isOS!=0 && dau1_iso<0.15 && dau2_idDeepTau2017v2p1VSjet >= 5' --skip-empty --ignore-absent
+
+#RunKit tauTau:
+python RunKit/skim_tree.py --input "/eos/user/e/emartinv/cmt/Categorization/ul_2018_v10/tt_dl/cat_SR/..." --output /eos/user/e/emartinv/cmt/Sync/test/TTTo2L2Nu_CIEMAT_tautau.root --input-tree Events --sel 'pairType == 2 && isOS!=0 && dau1_idDeepTau2017v2p1VSjet >=5 && dau2_idDeepTau2017v2p1VSjet >= 5' --skip-empty --ignore-absent
+
+#RunKit eTau:
+python RunKit/skim_tree.py --input "/eos/user/e/emartinv/cmt/Categorization/ul_2018_v10/tt_dl/cat_SR/..." --output /eos/user/e/emartinv/cmt/Sync/test/TTTo2L2Nu_CIEMAT_eTau.root --input-tree Events --sel 'pairType == 1 && isOS!=0 && dau2_idDeepTau2017v2p1VSjet >= 5' --skip-empty --ignore-absent
+
+
+#SyncTool
+python SyncTool/EventSync.py --config SyncTool/config/PI_LLR.cfg --channel muTau --sample TT --group Pi --file /eos/home-v/vdamante/HH_bbtautau_resonant_Run2/sync/TTTo2L2Nu_muTau_Pisa.root --tree Events --group LLR --file /eos/home-v/vdamante/HH_bbtautau_resonant_Run2/sync/TTTo2L2Nu_muTau_LLR.root --tree HTauTauTree &>sync_muTau.log

@@ -1,0 +1,2227 @@
+tauTau TT
+Pi  /eos/home-v/vdamante/HH_bbtautau_resonant_Run2/sync/TTTo2L2Nu_tauTau_Pisa_2.root  Events
+Ciemat  /eos/user/e/emartinv/cmt/Sync/test/TTTo2L2Nu_CIEMAT_tautau.root  Events
+# Pi events = 52782, # Pi unique events = 52782
+# Ciemat events = 53378, # Ciemat unique events = 53378
+# common events = 52101
+Pi events
+run:lumi:evt:sampleId = 1:250:249227
+run:lumi:evt:sampleId = 1:515:514441
+run:lumi:evt:sampleId = 1:594:593528
+run:lumi:evt:sampleId = 1:716:715279
+run:lumi:evt:sampleId = 1:745:744243
+run:lumi:evt:sampleId = 1:1047:1046389
+run:lumi:evt:sampleId = 1:1047:1046477
+run:lumi:evt:sampleId = 1:1104:1103902
+run:lumi:evt:sampleId = 1:1398:1397839
+run:lumi:evt:sampleId = 1:1474:1473834
+run:lumi:evt:sampleId = 1:1591:1590523
+run:lumi:evt:sampleId = 1:1808:1807256
+run:lumi:evt:sampleId = 1:1892:1891184
+run:lumi:evt:sampleId = 1:1963:1962992
+run:lumi:evt:sampleId = 1:2307:2306605
+run:lumi:evt:sampleId = 1:2898:2897581
+run:lumi:evt:sampleId = 1:2964:2963804
+run:lumi:evt:sampleId = 1:3133:3132212
+run:lumi:evt:sampleId = 1:3465:3464916
+run:lumi:evt:sampleId = 1:3491:3490340
+run:lumi:evt:sampleId = 1:3530:3529751
+run:lumi:evt:sampleId = 1:3599:3598294
+run:lumi:evt:sampleId = 1:3698:3697123
+run:lumi:evt:sampleId = 1:4254:4253457
+run:lumi:evt:sampleId = 1:4343:4342857
+run:lumi:evt:sampleId = 1:4884:4883265
+run:lumi:evt:sampleId = 1:4898:4897092
+run:lumi:evt:sampleId = 1:5113:5112228
+run:lumi:evt:sampleId = 1:5211:5210436
+run:lumi:evt:sampleId = 1:5345:5344653
+run:lumi:evt:sampleId = 1:5588:5587003
+run:lumi:evt:sampleId = 1:6164:6163241
+run:lumi:evt:sampleId = 1:6187:6186566
+run:lumi:evt:sampleId = 1:6324:6323333
+run:lumi:evt:sampleId = 1:6609:6608776
+run:lumi:evt:sampleId = 1:6682:6681701
+run:lumi:evt:sampleId = 1:6707:6706254
+run:lumi:evt:sampleId = 1:6944:6943564
+run:lumi:evt:sampleId = 1:7071:7070386
+run:lumi:evt:sampleId = 1:7471:7470558
+run:lumi:evt:sampleId = 1:7612:7611175
+run:lumi:evt:sampleId = 1:7676:7675123
+run:lumi:evt:sampleId = 1:7984:7983389
+run:lumi:evt:sampleId = 1:8766:8765296
+run:lumi:evt:sampleId = 1:9044:9043916
+run:lumi:evt:sampleId = 1:9373:9372833
+run:lumi:evt:sampleId = 1:10578:10577145
+run:lumi:evt:sampleId = 1:10690:10689883
+run:lumi:evt:sampleId = 1:10821:10820294
+run:lumi:evt:sampleId = 1:10951:10950494
+run:lumi:evt:sampleId = 1:11131:11130236
+run:lumi:evt:sampleId = 1:11137:11136059
+run:lumi:evt:sampleId = 1:11215:11214150
+run:lumi:evt:sampleId = 1:11252:11251150
+run:lumi:evt:sampleId = 1:11423:11422355
+run:lumi:evt:sampleId = 1:11475:11474601
+run:lumi:evt:sampleId = 1:11656:11655469
+run:lumi:evt:sampleId = 1:11685:11684011
+run:lumi:evt:sampleId = 1:12104:12103725
+run:lumi:evt:sampleId = 1:12697:12696906
+run:lumi:evt:sampleId = 1:12770:12769481
+run:lumi:evt:sampleId = 1:12802:12801455
+run:lumi:evt:sampleId = 1:12834:12833688
+run:lumi:evt:sampleId = 1:13126:13125204
+run:lumi:evt:sampleId = 1:13228:13227099
+run:lumi:evt:sampleId = 1:13514:13513150
+run:lumi:evt:sampleId = 1:13624:13623707
+run:lumi:evt:sampleId = 1:13806:13805459
+run:lumi:evt:sampleId = 1:14044:14043889
+run:lumi:evt:sampleId = 1:14502:14501507
+run:lumi:evt:sampleId = 1:14858:14857059
+run:lumi:evt:sampleId = 1:14878:14877435
+run:lumi:evt:sampleId = 1:15906:15905758
+run:lumi:evt:sampleId = 1:15976:15975761
+run:lumi:evt:sampleId = 1:16365:16364467
+run:lumi:evt:sampleId = 1:16408:16407989
+run:lumi:evt:sampleId = 1:16531:16530551
+run:lumi:evt:sampleId = 1:16785:16784150
+run:lumi:evt:sampleId = 1:16860:16859888
+run:lumi:evt:sampleId = 1:17313:17312434
+run:lumi:evt:sampleId = 1:17343:17342941
+run:lumi:evt:sampleId = 1:17953:17952772
+run:lumi:evt:sampleId = 1:18288:18287697
+run:lumi:evt:sampleId = 1:18380:18379228
+run:lumi:evt:sampleId = 1:18392:18391587
+run:lumi:evt:sampleId = 1:18796:18795750
+run:lumi:evt:sampleId = 1:19196:19195065
+run:lumi:evt:sampleId = 1:19208:19207624
+run:lumi:evt:sampleId = 1:19322:19321172
+run:lumi:evt:sampleId = 1:19333:19332951
+run:lumi:evt:sampleId = 1:19738:19737940
+run:lumi:evt:sampleId = 1:19963:19962651
+run:lumi:evt:sampleId = 1:20554:20553336
+run:lumi:evt:sampleId = 1:20586:20585625
+run:lumi:evt:sampleId = 1:20972:20971620
+run:lumi:evt:sampleId = 1:21034:21033177
+run:lumi:evt:sampleId = 1:21516:21515384
+run:lumi:evt:sampleId = 1:21918:21917986
+run:lumi:evt:sampleId = 1:22468:22467142
+run:lumi:evt:sampleId = 1:22568:22567453
+run:lumi:evt:sampleId = 1:22623:22622093
+run:lumi:evt:sampleId = 1:22743:22742922
+run:lumi:evt:sampleId = 1:22744:22743342
+run:lumi:evt:sampleId = 1:22747:22746767
+run:lumi:evt:sampleId = 1:22803:22802460
+run:lumi:evt:sampleId = 1:23197:23196609
+run:lumi:evt:sampleId = 1:23203:23202099
+run:lumi:evt:sampleId = 1:23326:23325653
+run:lumi:evt:sampleId = 1:23497:23496495
+run:lumi:evt:sampleId = 1:24294:24293998
+run:lumi:evt:sampleId = 1:24327:24326576
+run:lumi:evt:sampleId = 1:24456:24455758
+run:lumi:evt:sampleId = 1:24615:24614500
+run:lumi:evt:sampleId = 1:24962:24961909
+run:lumi:evt:sampleId = 1:25054:25053219
+run:lumi:evt:sampleId = 1:25257:25256287
+run:lumi:evt:sampleId = 1:25532:25531069
+run:lumi:evt:sampleId = 1:25732:25731713
+run:lumi:evt:sampleId = 1:25818:25817666
+run:lumi:evt:sampleId = 1:26405:26404340
+run:lumi:evt:sampleId = 1:26434:26433532
+run:lumi:evt:sampleId = 1:26662:26661137
+run:lumi:evt:sampleId = 1:27412:27411538
+run:lumi:evt:sampleId = 1:27647:27646366
+run:lumi:evt:sampleId = 1:27695:27694620
+run:lumi:evt:sampleId = 1:27710:27709242
+run:lumi:evt:sampleId = 1:27769:27768205
+run:lumi:evt:sampleId = 1:27777:27776325
+run:lumi:evt:sampleId = 1:27861:27860962
+run:lumi:evt:sampleId = 1:28228:28227672
+run:lumi:evt:sampleId = 1:28759:28758026
+run:lumi:evt:sampleId = 1:28776:28775325
+run:lumi:evt:sampleId = 1:28881:28880743
+run:lumi:evt:sampleId = 1:29114:29113458
+run:lumi:evt:sampleId = 1:29163:29162875
+run:lumi:evt:sampleId = 1:29305:29304263
+run:lumi:evt:sampleId = 1:29541:29540768
+run:lumi:evt:sampleId = 1:30650:30649732
+run:lumi:evt:sampleId = 1:30727:30726582
+run:lumi:evt:sampleId = 1:31198:31197859
+run:lumi:evt:sampleId = 1:31218:31217755
+run:lumi:evt:sampleId = 1:31503:31502183
+run:lumi:evt:sampleId = 1:31721:31720151
+run:lumi:evt:sampleId = 1:31740:31739895
+run:lumi:evt:sampleId = 1:31972:31971155
+run:lumi:evt:sampleId = 1:32173:32172903
+run:lumi:evt:sampleId = 1:32737:32736411
+run:lumi:evt:sampleId = 1:32834:32833739
+run:lumi:evt:sampleId = 1:32946:32945801
+run:lumi:evt:sampleId = 1:33012:33011701
+run:lumi:evt:sampleId = 1:33252:33251040
+run:lumi:evt:sampleId = 1:33289:33288145
+run:lumi:evt:sampleId = 1:33418:33417547
+run:lumi:evt:sampleId = 1:33748:33747524
+run:lumi:evt:sampleId = 1:34171:34170178
+run:lumi:evt:sampleId = 1:34724:34723047
+run:lumi:evt:sampleId = 1:35130:35129814
+run:lumi:evt:sampleId = 1:35239:35238690
+run:lumi:evt:sampleId = 1:35552:35551572
+run:lumi:evt:sampleId = 1:36198:36197413
+run:lumi:evt:sampleId = 1:36652:36651421
+run:lumi:evt:sampleId = 1:37055:37054122
+run:lumi:evt:sampleId = 1:37178:37177386
+run:lumi:evt:sampleId = 1:37208:37207856
+run:lumi:evt:sampleId = 1:38072:38071957
+run:lumi:evt:sampleId = 1:38315:38314788
+run:lumi:evt:sampleId = 1:38481:38480204
+run:lumi:evt:sampleId = 1:38708:38707718
+run:lumi:evt:sampleId = 1:38770:38769561
+run:lumi:evt:sampleId = 1:38976:38975738
+run:lumi:evt:sampleId = 1:39062:39061173
+run:lumi:evt:sampleId = 1:39268:39267736
+run:lumi:evt:sampleId = 1:39380:39379756
+run:lumi:evt:sampleId = 1:39402:39401182
+run:lumi:evt:sampleId = 1:39618:39617734
+run:lumi:evt:sampleId = 1:39776:39775687
+run:lumi:evt:sampleId = 1:40285:40284837
+run:lumi:evt:sampleId = 1:40432:40431838
+run:lumi:evt:sampleId = 1:40509:40508745
+run:lumi:evt:sampleId = 1:40556:40555595
+run:lumi:evt:sampleId = 1:40567:40566876
+run:lumi:evt:sampleId = 1:40942:40941569
+run:lumi:evt:sampleId = 1:40946:40945339
+run:lumi:evt:sampleId = 1:41101:41100361
+run:lumi:evt:sampleId = 1:41125:41124242
+run:lumi:evt:sampleId = 1:41192:41191570
+run:lumi:evt:sampleId = 1:41567:41566052
+run:lumi:evt:sampleId = 1:41605:41604525
+run:lumi:evt:sampleId = 1:41967:41966379
+run:lumi:evt:sampleId = 1:42067:42066403
+run:lumi:evt:sampleId = 1:42252:42251663
+run:lumi:evt:sampleId = 1:42427:42426587
+run:lumi:evt:sampleId = 1:42530:42529177
+run:lumi:evt:sampleId = 1:42768:42767836
+run:lumi:evt:sampleId = 1:42785:42784458
+run:lumi:evt:sampleId = 1:42850:42849949
+run:lumi:evt:sampleId = 1:43326:43325679
+run:lumi:evt:sampleId = 1:43680:43679847
+run:lumi:evt:sampleId = 1:43858:43857655
+run:lumi:evt:sampleId = 1:43869:43868118
+run:lumi:evt:sampleId = 1:44536:44535891
+run:lumi:evt:sampleId = 1:44995:44994172
+run:lumi:evt:sampleId = 1:45118:45117308
+run:lumi:evt:sampleId = 1:45209:45208322
+run:lumi:evt:sampleId = 1:45612:45611025
+run:lumi:evt:sampleId = 1:46357:46356035
+run:lumi:evt:sampleId = 1:47536:47535287
+run:lumi:evt:sampleId = 1:47764:47763289
+run:lumi:evt:sampleId = 1:47945:47944467
+run:lumi:evt:sampleId = 1:48443:48442037
+run:lumi:evt:sampleId = 1:48475:48474571
+run:lumi:evt:sampleId = 1:48528:48527421
+run:lumi:evt:sampleId = 1:48601:48600269
+run:lumi:evt:sampleId = 1:48665:48664290
+run:lumi:evt:sampleId = 1:48720:48719873
+run:lumi:evt:sampleId = 1:48985:48984555
+run:lumi:evt:sampleId = 1:49012:49011406
+run:lumi:evt:sampleId = 1:49072:49071723
+run:lumi:evt:sampleId = 1:49719:49718356
+run:lumi:evt:sampleId = 1:49925:49924378
+run:lumi:evt:sampleId = 1:50404:50403257
+run:lumi:evt:sampleId = 1:50558:50557264
+run:lumi:evt:sampleId = 1:50729:50728155
+run:lumi:evt:sampleId = 1:50982:50981199
+run:lumi:evt:sampleId = 1:50986:50985040
+run:lumi:evt:sampleId = 1:51285:51284222
+run:lumi:evt:sampleId = 1:51586:51585667
+run:lumi:evt:sampleId = 1:51678:51677562
+run:lumi:evt:sampleId = 1:52492:52491746
+run:lumi:evt:sampleId = 1:52538:52537315
+run:lumi:evt:sampleId = 1:52770:52769671
+run:lumi:evt:sampleId = 1:53024:53023164
+run:lumi:evt:sampleId = 1:53195:53194656
+run:lumi:evt:sampleId = 1:53648:53647782
+run:lumi:evt:sampleId = 1:53679:53678421
+run:lumi:evt:sampleId = 1:53864:53863869
+run:lumi:evt:sampleId = 1:54026:54025320
+run:lumi:evt:sampleId = 1:54131:54130429
+run:lumi:evt:sampleId = 1:54204:54203523
+run:lumi:evt:sampleId = 1:54324:54323671
+run:lumi:evt:sampleId = 1:54757:54756473
+run:lumi:evt:sampleId = 1:55084:55083238
+run:lumi:evt:sampleId = 1:55103:55102204
+run:lumi:evt:sampleId = 1:55140:55139390
+run:lumi:evt:sampleId = 1:55496:55495291
+run:lumi:evt:sampleId = 1:55598:55597139
+run:lumi:evt:sampleId = 1:55635:55634905
+run:lumi:evt:sampleId = 1:55687:55686650
+run:lumi:evt:sampleId = 1:56441:56440822
+run:lumi:evt:sampleId = 1:56444:56443813
+run:lumi:evt:sampleId = 1:56825:56824565
+run:lumi:evt:sampleId = 1:56968:56967054
+run:lumi:evt:sampleId = 1:57079:57078939
+run:lumi:evt:sampleId = 1:57083:57082304
+run:lumi:evt:sampleId = 1:57284:57283814
+run:lumi:evt:sampleId = 1:57664:57663148
+run:lumi:evt:sampleId = 1:58058:58057912
+run:lumi:evt:sampleId = 1:58104:58103318
+run:lumi:evt:sampleId = 1:58161:58160777
+run:lumi:evt:sampleId = 1:58245:58244421
+run:lumi:evt:sampleId = 1:58710:58709063
+run:lumi:evt:sampleId = 1:59365:59364114
+run:lumi:evt:sampleId = 1:59531:59530200
+run:lumi:evt:sampleId = 1:59707:59706894
+run:lumi:evt:sampleId = 1:60055:60054161
+run:lumi:evt:sampleId = 1:60115:60114287
+run:lumi:evt:sampleId = 1:60227:60226397
+run:lumi:evt:sampleId = 1:60914:60913658
+run:lumi:evt:sampleId = 1:60935:60934068
+run:lumi:evt:sampleId = 1:61231:61230727
+run:lumi:evt:sampleId = 1:61387:61386207
+run:lumi:evt:sampleId = 1:61634:61633675
+run:lumi:evt:sampleId = 1:61645:61644698
+run:lumi:evt:sampleId = 1:61926:61925731
+run:lumi:evt:sampleId = 1:62065:62064998
+run:lumi:evt:sampleId = 1:62227:62226418
+run:lumi:evt:sampleId = 1:62238:62237722
+run:lumi:evt:sampleId = 1:62409:62408418
+run:lumi:evt:sampleId = 1:62436:62435959
+run:lumi:evt:sampleId = 1:62517:62516251
+run:lumi:evt:sampleId = 1:62965:62964764
+run:lumi:evt:sampleId = 1:63052:63051840
+run:lumi:evt:sampleId = 1:63940:63939055
+run:lumi:evt:sampleId = 1:64048:64047796
+run:lumi:evt:sampleId = 1:64266:64265755
+run:lumi:evt:sampleId = 1:64477:64476301
+run:lumi:evt:sampleId = 1:64763:64762411
+run:lumi:evt:sampleId = 1:64777:64776206
+run:lumi:evt:sampleId = 1:64827:64826979
+run:lumi:evt:sampleId = 1:65136:65135257
+run:lumi:evt:sampleId = 1:65190:65189970
+run:lumi:evt:sampleId = 1:65325:65324772
+run:lumi:evt:sampleId = 1:65913:65912898
+run:lumi:evt:sampleId = 1:66237:66236466
+run:lumi:evt:sampleId = 1:66608:66607817
+run:lumi:evt:sampleId = 1:66888:66887199
+run:lumi:evt:sampleId = 1:67401:67400004
+run:lumi:evt:sampleId = 1:67470:67469049
+run:lumi:evt:sampleId = 1:67576:67575926
+run:lumi:evt:sampleId = 1:67808:67807713
+run:lumi:evt:sampleId = 1:67847:67846684
+run:lumi:evt:sampleId = 1:67848:67847019
+run:lumi:evt:sampleId = 1:67870:67869779
+run:lumi:evt:sampleId = 1:67946:67945842
+run:lumi:evt:sampleId = 1:68027:68026941
+run:lumi:evt:sampleId = 1:68037:68036891
+run:lumi:evt:sampleId = 1:68289:68288097
+run:lumi:evt:sampleId = 1:68596:68595235
+run:lumi:evt:sampleId = 1:68721:68720697
+run:lumi:evt:sampleId = 1:68762:68761542
+run:lumi:evt:sampleId = 1:68844:68843763
+run:lumi:evt:sampleId = 1:68911:68910927
+run:lumi:evt:sampleId = 1:68924:68923716
+run:lumi:evt:sampleId = 1:69057:69056563
+run:lumi:evt:sampleId = 1:69245:69244289
+run:lumi:evt:sampleId = 1:69429:69428368
+run:lumi:evt:sampleId = 1:69908:69907391
+run:lumi:evt:sampleId = 1:70126:70125676
+run:lumi:evt:sampleId = 1:70240:70239669
+run:lumi:evt:sampleId = 1:70253:70252778
+run:lumi:evt:sampleId = 1:70424:70423759
+run:lumi:evt:sampleId = 1:70901:70900681
+run:lumi:evt:sampleId = 1:71207:71206059
+run:lumi:evt:sampleId = 1:71432:71431220
+run:lumi:evt:sampleId = 1:71546:71545877
+run:lumi:evt:sampleId = 1:71692:71691414
+run:lumi:evt:sampleId = 1:71850:71849976
+run:lumi:evt:sampleId = 1:72321:72320511
+run:lumi:evt:sampleId = 1:72681:72680839
+run:lumi:evt:sampleId = 1:72823:72822792
+run:lumi:evt:sampleId = 1:72879:72878605
+run:lumi:evt:sampleId = 1:72950:72949924
+run:lumi:evt:sampleId = 1:73058:73057553
+run:lumi:evt:sampleId = 1:73154:73153759
+run:lumi:evt:sampleId = 1:73949:73948885
+run:lumi:evt:sampleId = 1:73953:73952340
+run:lumi:evt:sampleId = 1:73969:73968376
+run:lumi:evt:sampleId = 1:74273:74272197
+run:lumi:evt:sampleId = 1:74527:74526810
+run:lumi:evt:sampleId = 1:75040:75039440
+run:lumi:evt:sampleId = 1:75453:75452363
+run:lumi:evt:sampleId = 1:75653:75652492
+run:lumi:evt:sampleId = 1:75686:75685377
+run:lumi:evt:sampleId = 1:75817:75816999
+run:lumi:evt:sampleId = 1:76076:76075681
+run:lumi:evt:sampleId = 1:76105:76104293
+run:lumi:evt:sampleId = 1:76554:76553323
+run:lumi:evt:sampleId = 1:76612:76611758
+run:lumi:evt:sampleId = 1:76690:76689128
+run:lumi:evt:sampleId = 1:76742:76741028
+run:lumi:evt:sampleId = 1:76784:76783662
+run:lumi:evt:sampleId = 1:76926:76925262
+run:lumi:evt:sampleId = 1:77298:77297158
+run:lumi:evt:sampleId = 1:77330:77329094
+run:lumi:evt:sampleId = 1:77499:77498440
+run:lumi:evt:sampleId = 1:77558:77557935
+run:lumi:evt:sampleId = 1:77985:77984847
+run:lumi:evt:sampleId = 1:78366:78365542
+run:lumi:evt:sampleId = 1:78398:78397844
+run:lumi:evt:sampleId = 1:78462:78461795
+run:lumi:evt:sampleId = 1:78630:78629074
+run:lumi:evt:sampleId = 1:79078:79077391
+run:lumi:evt:sampleId = 1:79103:79102559
+run:lumi:evt:sampleId = 1:79471:79470827
+run:lumi:evt:sampleId = 1:79600:79599339
+run:lumi:evt:sampleId = 1:79737:79736040
+run:lumi:evt:sampleId = 1:79748:79747266
+run:lumi:evt:sampleId = 1:79798:79797857
+run:lumi:evt:sampleId = 1:80762:80761689
+run:lumi:evt:sampleId = 1:81033:81032887
+run:lumi:evt:sampleId = 1:81096:81095603
+run:lumi:evt:sampleId = 1:81367:81366531
+run:lumi:evt:sampleId = 1:81388:81387381
+run:lumi:evt:sampleId = 1:81560:81559604
+run:lumi:evt:sampleId = 1:82011:82010639
+run:lumi:evt:sampleId = 1:82019:82018506
+run:lumi:evt:sampleId = 1:82044:82043346
+run:lumi:evt:sampleId = 1:82119:82118545
+run:lumi:evt:sampleId = 1:82650:82649511
+run:lumi:evt:sampleId = 1:82717:82716448
+run:lumi:evt:sampleId = 1:82740:82739406
+run:lumi:evt:sampleId = 1:82829:82828298
+run:lumi:evt:sampleId = 1:83326:83325481
+run:lumi:evt:sampleId = 1:83495:83494654
+run:lumi:evt:sampleId = 1:83526:83525779
+run:lumi:evt:sampleId = 1:83602:83601251
+run:lumi:evt:sampleId = 1:83780:83779218
+run:lumi:evt:sampleId = 1:83926:83925903
+run:lumi:evt:sampleId = 1:84029:84028079
+run:lumi:evt:sampleId = 1:84500:84499535
+run:lumi:evt:sampleId = 1:84580:84579081
+run:lumi:evt:sampleId = 1:84983:84982396
+run:lumi:evt:sampleId = 1:85002:85001425
+run:lumi:evt:sampleId = 1:85363:85362150
+run:lumi:evt:sampleId = 1:85419:85418795
+run:lumi:evt:sampleId = 1:85508:85507794
+run:lumi:evt:sampleId = 1:85544:85543612
+run:lumi:evt:sampleId = 1:85584:85583179
+run:lumi:evt:sampleId = 1:85672:85671216
+run:lumi:evt:sampleId = 1:85692:85691285
+run:lumi:evt:sampleId = 1:85791:85790754
+run:lumi:evt:sampleId = 1:86412:86411986
+run:lumi:evt:sampleId = 1:86416:86415878
+run:lumi:evt:sampleId = 1:86548:86547835
+run:lumi:evt:sampleId = 1:86789:86788820
+run:lumi:evt:sampleId = 1:87183:87182636
+run:lumi:evt:sampleId = 1:87301:87300081
+run:lumi:evt:sampleId = 1:87390:87389137
+run:lumi:evt:sampleId = 1:87688:87687624
+run:lumi:evt:sampleId = 1:88032:88031666
+run:lumi:evt:sampleId = 1:88168:88167525
+run:lumi:evt:sampleId = 1:88592:88591050
+run:lumi:evt:sampleId = 1:88696:88695930
+run:lumi:evt:sampleId = 1:89216:89215155
+run:lumi:evt:sampleId = 1:89537:89536037
+run:lumi:evt:sampleId = 1:89861:89860721
+run:lumi:evt:sampleId = 1:90003:90002021
+run:lumi:evt:sampleId = 1:90140:90139839
+run:lumi:evt:sampleId = 1:90218:90217703
+run:lumi:evt:sampleId = 1:90244:90243501
+run:lumi:evt:sampleId = 1:90531:90530242
+run:lumi:evt:sampleId = 1:90826:90825329
+run:lumi:evt:sampleId = 1:91002:91001251
+run:lumi:evt:sampleId = 1:91188:91187815
+run:lumi:evt:sampleId = 1:91446:91445503
+run:lumi:evt:sampleId = 1:91510:91509647
+run:lumi:evt:sampleId = 1:91918:91917660
+run:lumi:evt:sampleId = 1:92553:92552085
+run:lumi:evt:sampleId = 1:92959:92958236
+run:lumi:evt:sampleId = 1:93161:93160126
+run:lumi:evt:sampleId = 1:93355:93354681
+run:lumi:evt:sampleId = 1:93547:93546149
+run:lumi:evt:sampleId = 1:93733:93732042
+run:lumi:evt:sampleId = 1:94116:94115345
+run:lumi:evt:sampleId = 1:94274:94273521
+run:lumi:evt:sampleId = 1:94437:94436895
+run:lumi:evt:sampleId = 1:94704:94703295
+run:lumi:evt:sampleId = 1:94827:94826559
+run:lumi:evt:sampleId = 1:94873:94872493
+run:lumi:evt:sampleId = 1:95156:95155342
+run:lumi:evt:sampleId = 1:95339:95338882
+run:lumi:evt:sampleId = 1:95382:95381899
+run:lumi:evt:sampleId = 1:95434:95433700
+run:lumi:evt:sampleId = 1:96100:96099005
+run:lumi:evt:sampleId = 1:96154:96153463
+run:lumi:evt:sampleId = 1:96306:96305760
+run:lumi:evt:sampleId = 1:96760:96759807
+run:lumi:evt:sampleId = 1:97252:97251737
+run:lumi:evt:sampleId = 1:97266:97265339
+run:lumi:evt:sampleId = 1:97298:97297402
+run:lumi:evt:sampleId = 1:97765:97764226
+run:lumi:evt:sampleId = 1:97794:97793630
+run:lumi:evt:sampleId = 1:97877:97876876
+run:lumi:evt:sampleId = 1:98131:98130128
+run:lumi:evt:sampleId = 1:98146:98145037
+run:lumi:evt:sampleId = 1:98332:98331344
+run:lumi:evt:sampleId = 1:98423:98422070
+run:lumi:evt:sampleId = 1:98676:98675154
+run:lumi:evt:sampleId = 1:98858:98857828
+run:lumi:evt:sampleId = 1:98894:98893938
+run:lumi:evt:sampleId = 1:98944:98943994
+run:lumi:evt:sampleId = 1:99053:99052236
+run:lumi:evt:sampleId = 1:99175:99174863
+run:lumi:evt:sampleId = 1:99236:99235984
+run:lumi:evt:sampleId = 1:99261:99260232
+run:lumi:evt:sampleId = 1:99315:99314311
+run:lumi:evt:sampleId = 1:99325:99324295
+run:lumi:evt:sampleId = 1:99588:99587315
+run:lumi:evt:sampleId = 1:99826:99825971
+run:lumi:evt:sampleId = 1:99875:99874416
+run:lumi:evt:sampleId = 1:100110:100109045
+run:lumi:evt:sampleId = 1:100147:100146900
+run:lumi:evt:sampleId = 1:100170:100169935
+run:lumi:evt:sampleId = 1:100447:100446693
+run:lumi:evt:sampleId = 1:100676:100675528
+run:lumi:evt:sampleId = 1:101058:101057821
+run:lumi:evt:sampleId = 1:101161:101160195
+run:lumi:evt:sampleId = 1:101540:101539145
+run:lumi:evt:sampleId = 1:101917:101916245
+run:lumi:evt:sampleId = 1:102170:102169130
+run:lumi:evt:sampleId = 1:102420:102419837
+run:lumi:evt:sampleId = 1:102734:102733429
+run:lumi:evt:sampleId = 1:102738:102737290
+run:lumi:evt:sampleId = 1:102863:102862809
+run:lumi:evt:sampleId = 1:102876:102875620
+run:lumi:evt:sampleId = 1:103244:103243385
+run:lumi:evt:sampleId = 1:103260:103259123
+run:lumi:evt:sampleId = 1:103579:103578769
+run:lumi:evt:sampleId = 1:104155:104154383
+run:lumi:evt:sampleId = 1:104374:104373695
+run:lumi:evt:sampleId = 1:104508:104507614
+run:lumi:evt:sampleId = 1:104512:104511312
+run:lumi:evt:sampleId = 1:105214:105213932
+run:lumi:evt:sampleId = 1:105273:105272790
+run:lumi:evt:sampleId = 1:105497:105496600
+run:lumi:evt:sampleId = 1:105542:105541819
+run:lumi:evt:sampleId = 1:105794:105793941
+run:lumi:evt:sampleId = 1:106169:106168816
+run:lumi:evt:sampleId = 1:106343:106342088
+run:lumi:evt:sampleId = 1:106760:106759045
+run:lumi:evt:sampleId = 1:107062:107061513
+run:lumi:evt:sampleId = 1:107329:107328506
+run:lumi:evt:sampleId = 1:107470:107469653
+run:lumi:evt:sampleId = 1:107545:107544700
+run:lumi:evt:sampleId = 1:107581:107580044
+run:lumi:evt:sampleId = 1:107844:107843509
+run:lumi:evt:sampleId = 1:107945:107944724
+run:lumi:evt:sampleId = 1:107993:107992146
+run:lumi:evt:sampleId = 1:108447:108446834
+run:lumi:evt:sampleId = 1:108489:108488331
+run:lumi:evt:sampleId = 1:108851:108850511
+run:lumi:evt:sampleId = 1:108873:108872307
+run:lumi:evt:sampleId = 1:109637:109636003
+run:lumi:evt:sampleId = 1:109914:109913250
+run:lumi:evt:sampleId = 1:109996:109995772
+run:lumi:evt:sampleId = 1:110108:110107659
+run:lumi:evt:sampleId = 1:110111:110110476
+run:lumi:evt:sampleId = 1:110157:110156881
+run:lumi:evt:sampleId = 1:110173:110172830
+run:lumi:evt:sampleId = 1:110327:110326686
+run:lumi:evt:sampleId = 1:110408:110407982
+run:lumi:evt:sampleId = 1:110557:110556654
+run:lumi:evt:sampleId = 1:110700:110699721
+run:lumi:evt:sampleId = 1:111076:111075711
+run:lumi:evt:sampleId = 1:111181:111180371
+run:lumi:evt:sampleId = 1:111308:111307181
+run:lumi:evt:sampleId = 1:111534:111533691
+run:lumi:evt:sampleId = 1:111554:111553495
+run:lumi:evt:sampleId = 1:111558:111557312
+run:lumi:evt:sampleId = 1:111698:111697112
+run:lumi:evt:sampleId = 1:112068:112067413
+run:lumi:evt:sampleId = 1:112261:112260102
+run:lumi:evt:sampleId = 1:112414:112413650
+run:lumi:evt:sampleId = 1:112482:112481359
+run:lumi:evt:sampleId = 1:112852:112851955
+run:lumi:evt:sampleId = 1:113226:113225905
+run:lumi:evt:sampleId = 1:113614:113613684
+run:lumi:evt:sampleId = 1:114195:114194251
+run:lumi:evt:sampleId = 1:114384:114383696
+run:lumi:evt:sampleId = 1:114683:114682797
+run:lumi:evt:sampleId = 1:115029:115028527
+run:lumi:evt:sampleId = 1:115411:115410814
+run:lumi:evt:sampleId = 1:116317:116316212
+run:lumi:evt:sampleId = 1:116451:116450089
+run:lumi:evt:sampleId = 1:116617:116616337
+run:lumi:evt:sampleId = 1:116626:116625455
+run:lumi:evt:sampleId = 1:117676:117675860
+run:lumi:evt:sampleId = 1:117688:117687943
+run:lumi:evt:sampleId = 1:117722:117721917
+run:lumi:evt:sampleId = 1:118254:118253719
+run:lumi:evt:sampleId = 1:118747:118746199
+run:lumi:evt:sampleId = 1:119035:119034109
+run:lumi:evt:sampleId = 1:119315:119314606
+run:lumi:evt:sampleId = 1:119942:119941703
+run:lumi:evt:sampleId = 1:119944:119943739
+run:lumi:evt:sampleId = 1:119950:119949375
+run:lumi:evt:sampleId = 1:119953:119952508
+run:lumi:evt:sampleId = 1:119998:119997369
+run:lumi:evt:sampleId = 1:120094:120093306
+run:lumi:evt:sampleId = 1:120464:120463521
+run:lumi:evt:sampleId = 1:120598:120597305
+run:lumi:evt:sampleId = 1:120679:120678689
+run:lumi:evt:sampleId = 1:121369:121368694
+run:lumi:evt:sampleId = 1:121450:121449672
+run:lumi:evt:sampleId = 1:121654:121653413
+run:lumi:evt:sampleId = 1:122050:122049910
+run:lumi:evt:sampleId = 1:122274:122273045
+run:lumi:evt:sampleId = 1:122337:122336934
+run:lumi:evt:sampleId = 1:122637:122636297
+run:lumi:evt:sampleId = 1:122692:122691088
+run:lumi:evt:sampleId = 1:122710:122709964
+run:lumi:evt:sampleId = 1:122741:122740540
+run:lumi:evt:sampleId = 1:122899:122898299
+run:lumi:evt:sampleId = 1:122960:122959497
+run:lumi:evt:sampleId = 1:123188:123187607
+run:lumi:evt:sampleId = 1:123202:123201717
+run:lumi:evt:sampleId = 1:123388:123387441
+run:lumi:evt:sampleId = 1:123681:123680738
+run:lumi:evt:sampleId = 1:123746:123745544
+run:lumi:evt:sampleId = 1:123770:123769900
+run:lumi:evt:sampleId = 1:124097:124096030
+run:lumi:evt:sampleId = 1:124332:124331818
+run:lumi:evt:sampleId = 1:124505:124504379
+run:lumi:evt:sampleId = 1:125369:125368776
+run:lumi:evt:sampleId = 1:125402:125401479
+run:lumi:evt:sampleId = 1:125843:125842055
+run:lumi:evt:sampleId = 1:125863:125862329
+run:lumi:evt:sampleId = 1:127517:127516965
+run:lumi:evt:sampleId = 1:127850:127849377
+run:lumi:evt:sampleId = 1:127889:127888315
+run:lumi:evt:sampleId = 1:127894:127893927
+run:lumi:evt:sampleId = 1:127897:127896645
+run:lumi:evt:sampleId = 1:128040:128039294
+run:lumi:evt:sampleId = 1:128165:128164435
+run:lumi:evt:sampleId = 1:128192:128191072
+run:lumi:evt:sampleId = 1:128401:128400871
+run:lumi:evt:sampleId = 1:129009:129008725
+run:lumi:evt:sampleId = 1:129270:129269273
+run:lumi:evt:sampleId = 1:129743:129742044
+run:lumi:evt:sampleId = 1:130046:130045981
+run:lumi:evt:sampleId = 1:130662:130661692
+run:lumi:evt:sampleId = 1:130779:130778146
+run:lumi:evt:sampleId = 1:132133:132132153
+run:lumi:evt:sampleId = 1:132424:132423414
+run:lumi:evt:sampleId = 1:133144:133143810
+run:lumi:evt:sampleId = 1:133438:133437489
+run:lumi:evt:sampleId = 1:134045:134044926
+run:lumi:evt:sampleId = 1:135002:135001605
+run:lumi:evt:sampleId = 1:135074:135073742
+run:lumi:evt:sampleId = 1:135264:135263946
+run:lumi:evt:sampleId = 1:135375:135374752
+run:lumi:evt:sampleId = 1:135562:135561985
+run:lumi:evt:sampleId = 1:135571:135570043
+run:lumi:evt:sampleId = 1:136139:136138927
+run:lumi:evt:sampleId = 1:136163:136162533
+run:lumi:evt:sampleId = 1:136436:136435168
+run:lumi:evt:sampleId = 1:136460:136459133
+run:lumi:evt:sampleId = 1:136519:136518567
+run:lumi:evt:sampleId = 1:136702:136701533
+run:lumi:evt:sampleId = 1:136925:136924710
+run:lumi:evt:sampleId = 1:136959:136958982
+run:lumi:evt:sampleId = 1:137201:137200010
+run:lumi:evt:sampleId = 1:137844:137843299
+run:lumi:evt:sampleId = 1:138101:138100246
+run:lumi:evt:sampleId = 1:138230:138229328
+run:lumi:evt:sampleId = 1:138388:138387796
+run:lumi:evt:sampleId = 1:138553:138552975
+run:lumi:evt:sampleId = 1:138784:138783746
+run:lumi:evt:sampleId = 1:138820:138819730
+run:lumi:evt:sampleId = 1:138842:138841131
+run:lumi:evt:sampleId = 1:139058:139057135
+run:lumi:evt:sampleId = 1:139071:139070481
+run:lumi:evt:sampleId = 1:139915:139914734
+run:lumi:evt:sampleId = 1:139930:139929120
+run:lumi:evt:sampleId = 1:140306:140305512
+run:lumi:evt:sampleId = 1:140469:140468750
+run:lumi:evt:sampleId = 1:140509:140508101
+run:lumi:evt:sampleId = 1:140861:140860821
+run:lumi:evt:sampleId = 1:141773:141772413
+run:lumi:evt:sampleId = 1:142207:142206347
+run:lumi:evt:sampleId = 1:142426:142425584
+run:lumi:evt:sampleId = 1:142557:142556748
+run:lumi:evt:sampleId = 1:142607:142606518
+run:lumi:evt:sampleId = 1:142759:142758267
+run:lumi:evt:sampleId = 1:142834:142833210
+run:lumi:evt:sampleId = 1:142890:142889254
+run:lumi:evt:sampleId = 1:143221:143220306
+run:lumi:evt:sampleId = 1:143470:143469984
+run:lumi:evt:sampleId = 1:143793:143792843
+run:lumi:evt:sampleId = 1:143805:143804060
+run:lumi:evt:sampleId = 1:143956:143955104
+run:lumi:evt:sampleId = 1:143991:143990681
+run:lumi:evt:sampleId = 1:144054:144053764
+run:lumi:evt:sampleId = 1:144184:144183212
+run:lumi:evt:sampleId = 1:144209:144208311
+run:lumi:evt:sampleId = 1:144573:144572511
+run:lumi:evt:sampleId = 1:144655:144654517
+run:lumi:evt:sampleId = 1:145102:145101246
+run:lumi:evt:sampleId = 1:145323:145322574
+run:lumi:evt:sampleId = 1:145499:145498433
+run:lumi:evt:sampleId = 1:145506:145505084
+run:lumi:evt:sampleId = 1:145529:145528508
+run:lumi:evt:sampleId = 1:145718:145717529
+run:lumi:evt:sampleId = 1:145969:145968631
+run:lumi:evt:sampleId = 1:145998:145997188
+run:lumi:evt:sampleId = 1:146182:146181313
+run:lumi:evt:sampleId = 1:146382:146381101
+run:lumi:evt:sampleId = 1:147283:147282608
+run:lumi:evt:sampleId = 1:147553:147552909
+run:lumi:evt:sampleId = 1:147675:147674985
+run:lumi:evt:sampleId = 1:147980:147979713
+run:lumi:evt:sampleId = 1:148070:148069167
+run:lumi:evt:sampleId = 1:148330:148329279
+run:lumi:evt:sampleId = 1:148339:148338105
+run:lumi:evt:sampleId = 1:149032:149031828
+run:lumi:evt:sampleId = 1:149058:149057234
+run:lumi:evt:sampleId = 1:149060:149059747
+run:lumi:evt:sampleId = 1:149179:149178605
+run:lumi:evt:sampleId = 1:149296:149295761
+run:lumi:evt:sampleId = 1:149453:149452590
+run:lumi:evt:sampleId = 1:149702:149701099
+Ciemat events
+run:lumi:evt:sampleId = 1:5:4181
+run:lumi:evt:sampleId = 1:16:15891
+run:lumi:evt:sampleId = 1:136:135068
+run:lumi:evt:sampleId = 1:401:400087
+run:lumi:evt:sampleId = 1:861:860889
+run:lumi:evt:sampleId = 1:1291:1290572
+run:lumi:evt:sampleId = 1:1419:1418747
+run:lumi:evt:sampleId = 1:1449:1448125
+run:lumi:evt:sampleId = 1:1479:1478032
+run:lumi:evt:sampleId = 1:1519:1518982
+run:lumi:evt:sampleId = 1:1558:1557903
+run:lumi:evt:sampleId = 1:1706:1705899
+run:lumi:evt:sampleId = 1:1836:1835446
+run:lumi:evt:sampleId = 1:2050:2049800
+run:lumi:evt:sampleId = 1:2083:2082497
+run:lumi:evt:sampleId = 1:2211:2210585
+run:lumi:evt:sampleId = 1:2223:2222399
+run:lumi:evt:sampleId = 1:2889:2888556
+run:lumi:evt:sampleId = 1:3377:3376108
+run:lumi:evt:sampleId = 1:3427:3426166
+run:lumi:evt:sampleId = 1:3525:3524816
+run:lumi:evt:sampleId = 1:3583:3582650
+run:lumi:evt:sampleId = 1:3844:3843171
+run:lumi:evt:sampleId = 1:3863:3862171
+run:lumi:evt:sampleId = 1:3865:3864312
+run:lumi:evt:sampleId = 1:3885:3884995
+run:lumi:evt:sampleId = 1:4085:4084072
+run:lumi:evt:sampleId = 1:4103:4102331
+run:lumi:evt:sampleId = 1:4109:4108797
+run:lumi:evt:sampleId = 1:4210:4209579
+run:lumi:evt:sampleId = 1:4252:4251099
+run:lumi:evt:sampleId = 1:4353:4352981
+run:lumi:evt:sampleId = 1:4387:4386723
+run:lumi:evt:sampleId = 1:4419:4418004
+run:lumi:evt:sampleId = 1:4551:4550403
+run:lumi:evt:sampleId = 1:4618:4617833
+run:lumi:evt:sampleId = 1:4916:4915013
+run:lumi:evt:sampleId = 1:4996:4995550
+run:lumi:evt:sampleId = 1:5269:5268988
+run:lumi:evt:sampleId = 1:5312:5311584
+run:lumi:evt:sampleId = 1:5393:5392836
+run:lumi:evt:sampleId = 1:5453:5452842
+run:lumi:evt:sampleId = 1:5515:5514767
+run:lumi:evt:sampleId = 1:5532:5531253
+run:lumi:evt:sampleId = 1:5612:5611096
+run:lumi:evt:sampleId = 1:5749:5748797
+run:lumi:evt:sampleId = 1:5848:5847306
+run:lumi:evt:sampleId = 1:5850:5849946
+run:lumi:evt:sampleId = 1:5899:5898425
+run:lumi:evt:sampleId = 1:6206:6205977
+run:lumi:evt:sampleId = 1:6335:6334270
+run:lumi:evt:sampleId = 1:6456:6455869
+run:lumi:evt:sampleId = 1:6489:6488647
+run:lumi:evt:sampleId = 1:6559:6558581
+run:lumi:evt:sampleId = 1:6605:6604546
+run:lumi:evt:sampleId = 1:6652:6651293
+run:lumi:evt:sampleId = 1:6754:6753162
+run:lumi:evt:sampleId = 1:6821:6820399
+run:lumi:evt:sampleId = 1:6854:6853924
+run:lumi:evt:sampleId = 1:6909:6908560
+run:lumi:evt:sampleId = 1:7482:7481369
+run:lumi:evt:sampleId = 1:7577:7576664
+run:lumi:evt:sampleId = 1:7654:7653908
+run:lumi:evt:sampleId = 1:7709:7708155
+run:lumi:evt:sampleId = 1:7795:7794234
+run:lumi:evt:sampleId = 1:7921:7920495
+run:lumi:evt:sampleId = 1:8152:8151603
+run:lumi:evt:sampleId = 1:8203:8202995
+run:lumi:evt:sampleId = 1:8408:8407830
+run:lumi:evt:sampleId = 1:8451:8450418
+run:lumi:evt:sampleId = 1:8484:8483356
+run:lumi:evt:sampleId = 1:8491:8490156
+run:lumi:evt:sampleId = 1:8526:8525894
+run:lumi:evt:sampleId = 1:8577:8576633
+run:lumi:evt:sampleId = 1:8998:8997586
+run:lumi:evt:sampleId = 1:9006:9005912
+run:lumi:evt:sampleId = 1:9110:9109061
+run:lumi:evt:sampleId = 1:9187:9186149
+run:lumi:evt:sampleId = 1:9281:9280569
+run:lumi:evt:sampleId = 1:9443:9442857
+run:lumi:evt:sampleId = 1:9477:9476983
+run:lumi:evt:sampleId = 1:9514:9513306
+run:lumi:evt:sampleId = 1:9589:9588043
+run:lumi:evt:sampleId = 1:9694:9693117
+run:lumi:evt:sampleId = 1:9801:9800438
+run:lumi:evt:sampleId = 1:9826:9825572
+run:lumi:evt:sampleId = 1:9859:9858631
+run:lumi:evt:sampleId = 1:10014:10013133
+run:lumi:evt:sampleId = 1:10052:10051480
+run:lumi:evt:sampleId = 1:10200:10199086
+run:lumi:evt:sampleId = 1:10334:10333799
+run:lumi:evt:sampleId = 1:10579:10578212
+run:lumi:evt:sampleId = 1:10650:10649221
+run:lumi:evt:sampleId = 1:10903:10902344
+run:lumi:evt:sampleId = 1:11177:11176507
+run:lumi:evt:sampleId = 1:11372:11371521
+run:lumi:evt:sampleId = 1:11392:11391748
+run:lumi:evt:sampleId = 1:11482:11481324
+run:lumi:evt:sampleId = 1:11823:11822818
+run:lumi:evt:sampleId = 1:11858:11857283
+run:lumi:evt:sampleId = 1:11951:11950870
+run:lumi:evt:sampleId = 1:12110:12109096
+run:lumi:evt:sampleId = 1:12716:12715606
+run:lumi:evt:sampleId = 1:12732:12731837
+run:lumi:evt:sampleId = 1:12849:12848535
+run:lumi:evt:sampleId = 1:13283:13282060
+run:lumi:evt:sampleId = 1:13420:13419061
+run:lumi:evt:sampleId = 1:13861:13860492
+run:lumi:evt:sampleId = 1:13875:13874699
+run:lumi:evt:sampleId = 1:13955:13954829
+run:lumi:evt:sampleId = 1:14140:14139767
+run:lumi:evt:sampleId = 1:14303:14302531
+run:lumi:evt:sampleId = 1:14344:14343163
+run:lumi:evt:sampleId = 1:14360:14359653
+run:lumi:evt:sampleId = 1:14419:14418188
+run:lumi:evt:sampleId = 1:14447:14446551
+run:lumi:evt:sampleId = 1:14495:14494781
+run:lumi:evt:sampleId = 1:14856:14855379
+run:lumi:evt:sampleId = 1:14985:14984257
+run:lumi:evt:sampleId = 1:15122:15121062
+run:lumi:evt:sampleId = 1:15338:15337713
+run:lumi:evt:sampleId = 1:15426:15425061
+run:lumi:evt:sampleId = 1:15603:15602302
+run:lumi:evt:sampleId = 1:15733:15732311
+run:lumi:evt:sampleId = 1:15752:15751665
+run:lumi:evt:sampleId = 1:15760:15759150
+run:lumi:evt:sampleId = 1:15765:15764446
+run:lumi:evt:sampleId = 1:16121:16120302
+run:lumi:evt:sampleId = 1:16277:16276155
+run:lumi:evt:sampleId = 1:16319:16318296
+run:lumi:evt:sampleId = 1:16403:16402993
+run:lumi:evt:sampleId = 1:16472:16471907
+run:lumi:evt:sampleId = 1:16571:16570303
+run:lumi:evt:sampleId = 1:16883:16882317
+run:lumi:evt:sampleId = 1:16896:16895544
+run:lumi:evt:sampleId = 1:16966:16965234
+run:lumi:evt:sampleId = 1:17064:17063858
+run:lumi:evt:sampleId = 1:17134:17133585
+run:lumi:evt:sampleId = 1:17239:17238428
+run:lumi:evt:sampleId = 1:17542:17541875
+run:lumi:evt:sampleId = 1:17590:17589570
+run:lumi:evt:sampleId = 1:17643:17642519
+run:lumi:evt:sampleId = 1:17691:17690834
+run:lumi:evt:sampleId = 1:17747:17746172
+run:lumi:evt:sampleId = 1:17929:17928676
+run:lumi:evt:sampleId = 1:18058:18057261
+run:lumi:evt:sampleId = 1:18352:18351205
+run:lumi:evt:sampleId = 1:18384:18383168
+run:lumi:evt:sampleId = 1:18436:18435796
+run:lumi:evt:sampleId = 1:18509:18508362
+run:lumi:evt:sampleId = 1:18601:18600432
+run:lumi:evt:sampleId = 1:18648:18647464
+run:lumi:evt:sampleId = 1:18807:18806105
+run:lumi:evt:sampleId = 1:18895:18894181
+run:lumi:evt:sampleId = 1:19175:19174960
+run:lumi:evt:sampleId = 1:19597:19596206
+run:lumi:evt:sampleId = 1:19892:19891893
+run:lumi:evt:sampleId = 1:19960:19959130
+run:lumi:evt:sampleId = 1:20013:20012870
+run:lumi:evt:sampleId = 1:20034:20033510
+run:lumi:evt:sampleId = 1:20147:20146478
+run:lumi:evt:sampleId = 1:20326:20325947
+run:lumi:evt:sampleId = 1:20514:20513667
+run:lumi:evt:sampleId = 1:21133:21132134
+run:lumi:evt:sampleId = 1:21253:21252467
+run:lumi:evt:sampleId = 1:21307:21306057
+run:lumi:evt:sampleId = 1:21334:21333908
+run:lumi:evt:sampleId = 1:21629:21628753
+run:lumi:evt:sampleId = 1:21636:21635491
+run:lumi:evt:sampleId = 1:21822:21821925
+run:lumi:evt:sampleId = 1:22040:22039292
+run:lumi:evt:sampleId = 1:22046:22045679
+run:lumi:evt:sampleId = 1:22306:22305992
+run:lumi:evt:sampleId = 1:22366:22365729
+run:lumi:evt:sampleId = 1:22439:22438309
+run:lumi:evt:sampleId = 1:22470:22469598
+run:lumi:evt:sampleId = 1:22476:22475483
+run:lumi:evt:sampleId = 1:22517:22516120
+run:lumi:evt:sampleId = 1:22667:22666396
+run:lumi:evt:sampleId = 1:22724:22723223
+run:lumi:evt:sampleId = 1:22769:22768313
+run:lumi:evt:sampleId = 1:22783:22782549
+run:lumi:evt:sampleId = 1:22824:22823454
+run:lumi:evt:sampleId = 1:22974:22973411
+run:lumi:evt:sampleId = 1:22976:22975931
+run:lumi:evt:sampleId = 1:23033:23032399
+run:lumi:evt:sampleId = 1:23059:23058422
+run:lumi:evt:sampleId = 1:23249:23248992
+run:lumi:evt:sampleId = 1:23585:23584576
+run:lumi:evt:sampleId = 1:23595:23594824
+run:lumi:evt:sampleId = 1:23700:23699100
+run:lumi:evt:sampleId = 1:23761:23760193
+run:lumi:evt:sampleId = 1:23888:23887777
+run:lumi:evt:sampleId = 1:24172:24171670
+run:lumi:evt:sampleId = 1:24209:24208821
+run:lumi:evt:sampleId = 1:24239:24238985
+run:lumi:evt:sampleId = 1:24366:24365643
+run:lumi:evt:sampleId = 1:24505:24504793
+run:lumi:evt:sampleId = 1:24537:24536719
+run:lumi:evt:sampleId = 1:24630:24629282
+run:lumi:evt:sampleId = 1:24700:24699329
+run:lumi:evt:sampleId = 1:24761:24760939
+run:lumi:evt:sampleId = 1:24770:24769097
+run:lumi:evt:sampleId = 1:24916:24915276
+run:lumi:evt:sampleId = 1:25049:25048381
+run:lumi:evt:sampleId = 1:25080:25079218
+run:lumi:evt:sampleId = 1:25134:25133470
+run:lumi:evt:sampleId = 1:25766:25765506
+run:lumi:evt:sampleId = 1:25891:25890940
+run:lumi:evt:sampleId = 1:25899:25898695
+run:lumi:evt:sampleId = 1:25962:25961228
+run:lumi:evt:sampleId = 1:26086:26085118
+run:lumi:evt:sampleId = 1:26250:26249928
+run:lumi:evt:sampleId = 1:26264:26263998
+run:lumi:evt:sampleId = 1:26296:26295828
+run:lumi:evt:sampleId = 1:26378:26377582
+run:lumi:evt:sampleId = 1:26387:26386005
+run:lumi:evt:sampleId = 1:26558:26557720
+run:lumi:evt:sampleId = 1:26697:26696977
+run:lumi:evt:sampleId = 1:26885:26884855
+run:lumi:evt:sampleId = 1:27056:27055473
+run:lumi:evt:sampleId = 1:27292:27291820
+run:lumi:evt:sampleId = 1:27659:27658367
+run:lumi:evt:sampleId = 1:28293:28292617
+run:lumi:evt:sampleId = 1:28298:28297115
+run:lumi:evt:sampleId = 1:28302:28301164
+run:lumi:evt:sampleId = 1:28555:28554887
+run:lumi:evt:sampleId = 1:28766:28765826
+run:lumi:evt:sampleId = 1:28846:28845678
+run:lumi:evt:sampleId = 1:28919:28918397
+run:lumi:evt:sampleId = 1:29003:29002524
+run:lumi:evt:sampleId = 1:29151:29150981
+run:lumi:evt:sampleId = 1:29233:29232723
+run:lumi:evt:sampleId = 1:29602:29601160
+run:lumi:evt:sampleId = 1:29727:29726872
+run:lumi:evt:sampleId = 1:29776:29775432
+run:lumi:evt:sampleId = 1:29804:29803073
+run:lumi:evt:sampleId = 1:30398:30397715
+run:lumi:evt:sampleId = 1:30416:30415443
+run:lumi:evt:sampleId = 1:30767:30766790
+run:lumi:evt:sampleId = 1:30819:30818078
+run:lumi:evt:sampleId = 1:30937:30936770
+run:lumi:evt:sampleId = 1:30938:30937113
+run:lumi:evt:sampleId = 1:31121:31120048
+run:lumi:evt:sampleId = 1:31337:31336303
+run:lumi:evt:sampleId = 1:31498:31497969
+run:lumi:evt:sampleId = 1:31565:31564010
+run:lumi:evt:sampleId = 1:31626:31625400
+run:lumi:evt:sampleId = 1:31733:31732788
+run:lumi:evt:sampleId = 1:31819:31818430
+run:lumi:evt:sampleId = 1:32066:32065179
+run:lumi:evt:sampleId = 1:32070:32069045
+run:lumi:evt:sampleId = 1:32083:32082924
+run:lumi:evt:sampleId = 1:32166:32165437
+run:lumi:evt:sampleId = 1:32312:32311326
+run:lumi:evt:sampleId = 1:32429:32428556
+run:lumi:evt:sampleId = 1:32449:32448870
+run:lumi:evt:sampleId = 1:32604:32603052
+run:lumi:evt:sampleId = 1:32700:32699192
+run:lumi:evt:sampleId = 1:32758:32757701
+run:lumi:evt:sampleId = 1:32774:32773312
+run:lumi:evt:sampleId = 1:32999:32998265
+run:lumi:evt:sampleId = 1:33061:33060059
+run:lumi:evt:sampleId = 1:33066:33065942
+run:lumi:evt:sampleId = 1:33395:33394511
+run:lumi:evt:sampleId = 1:33542:33541410
+run:lumi:evt:sampleId = 1:33614:33613338
+run:lumi:evt:sampleId = 1:33614:33613508
+run:lumi:evt:sampleId = 1:33844:33843885
+run:lumi:evt:sampleId = 1:34140:34139477
+run:lumi:evt:sampleId = 1:34361:34360478
+run:lumi:evt:sampleId = 1:34633:34632691
+run:lumi:evt:sampleId = 1:34703:34702069
+run:lumi:evt:sampleId = 1:34831:34830426
+run:lumi:evt:sampleId = 1:35095:35094745
+run:lumi:evt:sampleId = 1:35345:35344941
+run:lumi:evt:sampleId = 1:35369:35368337
+run:lumi:evt:sampleId = 1:35411:35410481
+run:lumi:evt:sampleId = 1:35695:35694224
+run:lumi:evt:sampleId = 1:35865:35864651
+run:lumi:evt:sampleId = 1:35881:35880273
+run:lumi:evt:sampleId = 1:35891:35890037
+run:lumi:evt:sampleId = 1:35902:35901224
+run:lumi:evt:sampleId = 1:35919:35918216
+run:lumi:evt:sampleId = 1:36010:36009595
+run:lumi:evt:sampleId = 1:36103:36102725
+run:lumi:evt:sampleId = 1:36278:36277553
+run:lumi:evt:sampleId = 1:36352:36351234
+run:lumi:evt:sampleId = 1:36446:36445515
+run:lumi:evt:sampleId = 1:36457:36456989
+run:lumi:evt:sampleId = 1:36635:36634268
+run:lumi:evt:sampleId = 1:36635:36634279
+run:lumi:evt:sampleId = 1:36699:36698357
+run:lumi:evt:sampleId = 1:36836:36835527
+run:lumi:evt:sampleId = 1:36885:36884170
+run:lumi:evt:sampleId = 1:37285:37284562
+run:lumi:evt:sampleId = 1:37422:37421303
+run:lumi:evt:sampleId = 1:37680:37679455
+run:lumi:evt:sampleId = 1:37690:37689701
+run:lumi:evt:sampleId = 1:37697:37696454
+run:lumi:evt:sampleId = 1:38020:38019142
+run:lumi:evt:sampleId = 1:38025:38024795
+run:lumi:evt:sampleId = 1:38045:38044250
+run:lumi:evt:sampleId = 1:38045:38044835
+run:lumi:evt:sampleId = 1:38081:38080402
+run:lumi:evt:sampleId = 1:38167:38166907
+run:lumi:evt:sampleId = 1:38378:38377961
+run:lumi:evt:sampleId = 1:38516:38515630
+run:lumi:evt:sampleId = 1:38643:38642858
+run:lumi:evt:sampleId = 1:38657:38656824
+run:lumi:evt:sampleId = 1:39011:39010077
+run:lumi:evt:sampleId = 1:39055:39054511
+run:lumi:evt:sampleId = 1:39190:39189555
+run:lumi:evt:sampleId = 1:39208:39207381
+run:lumi:evt:sampleId = 1:39391:39390215
+run:lumi:evt:sampleId = 1:39563:39562446
+run:lumi:evt:sampleId = 1:39622:39621246
+run:lumi:evt:sampleId = 1:39747:39746040
+run:lumi:evt:sampleId = 1:39751:39750576
+run:lumi:evt:sampleId = 1:39832:39831379
+run:lumi:evt:sampleId = 1:39956:39955175
+run:lumi:evt:sampleId = 1:39974:39973050
+run:lumi:evt:sampleId = 1:39986:39985472
+run:lumi:evt:sampleId = 1:40051:40050942
+run:lumi:evt:sampleId = 1:40063:40062734
+run:lumi:evt:sampleId = 1:40517:40516070
+run:lumi:evt:sampleId = 1:40650:40649299
+run:lumi:evt:sampleId = 1:40768:40767166
+run:lumi:evt:sampleId = 1:40900:40899269
+run:lumi:evt:sampleId = 1:40978:40977503
+run:lumi:evt:sampleId = 1:40995:40994126
+run:lumi:evt:sampleId = 1:41446:41445457
+run:lumi:evt:sampleId = 1:41489:41488155
+run:lumi:evt:sampleId = 1:41739:41738692
+run:lumi:evt:sampleId = 1:41974:41973144
+run:lumi:evt:sampleId = 1:42061:42060557
+run:lumi:evt:sampleId = 1:42146:42145372
+run:lumi:evt:sampleId = 1:42195:42194651
+run:lumi:evt:sampleId = 1:42196:42195947
+run:lumi:evt:sampleId = 1:42198:42197626
+run:lumi:evt:sampleId = 1:42229:42228071
+run:lumi:evt:sampleId = 1:42245:42244076
+run:lumi:evt:sampleId = 1:42291:42290450
+run:lumi:evt:sampleId = 1:42296:42295425
+run:lumi:evt:sampleId = 1:42305:42304628
+run:lumi:evt:sampleId = 1:42551:42550645
+run:lumi:evt:sampleId = 1:42554:42553657
+run:lumi:evt:sampleId = 1:42743:42742572
+run:lumi:evt:sampleId = 1:42930:42929095
+run:lumi:evt:sampleId = 1:43018:43017384
+run:lumi:evt:sampleId = 1:43066:43065176
+run:lumi:evt:sampleId = 1:43106:43105478
+run:lumi:evt:sampleId = 1:43176:43175641
+run:lumi:evt:sampleId = 1:43269:43268772
+run:lumi:evt:sampleId = 1:43438:43437212
+run:lumi:evt:sampleId = 1:43664:43663960
+run:lumi:evt:sampleId = 1:43750:43749974
+run:lumi:evt:sampleId = 1:43850:43849157
+run:lumi:evt:sampleId = 1:43980:43979943
+run:lumi:evt:sampleId = 1:44008:44007770
+run:lumi:evt:sampleId = 1:44266:44265332
+run:lumi:evt:sampleId = 1:44498:44497352
+run:lumi:evt:sampleId = 1:44508:44507289
+run:lumi:evt:sampleId = 1:44558:44557133
+run:lumi:evt:sampleId = 1:44634:44633926
+run:lumi:evt:sampleId = 1:44748:44747503
+run:lumi:evt:sampleId = 1:44808:44807755
+run:lumi:evt:sampleId = 1:44853:44852862
+run:lumi:evt:sampleId = 1:44993:44992271
+run:lumi:evt:sampleId = 1:45053:45052624
+run:lumi:evt:sampleId = 1:45082:45081468
+run:lumi:evt:sampleId = 1:45232:45231284
+run:lumi:evt:sampleId = 1:45234:45233488
+run:lumi:evt:sampleId = 1:45272:45271215
+run:lumi:evt:sampleId = 1:45383:45382886
+run:lumi:evt:sampleId = 1:45486:45485524
+run:lumi:evt:sampleId = 1:45486:45485962
+run:lumi:evt:sampleId = 1:45597:45596877
+run:lumi:evt:sampleId = 1:45791:45790906
+run:lumi:evt:sampleId = 1:45867:45866934
+run:lumi:evt:sampleId = 1:45870:45869682
+run:lumi:evt:sampleId = 1:46420:46419415
+run:lumi:evt:sampleId = 1:46421:46420878
+run:lumi:evt:sampleId = 1:46460:46459562
+run:lumi:evt:sampleId = 1:46893:46892917
+run:lumi:evt:sampleId = 1:46958:46957167
+run:lumi:evt:sampleId = 1:47132:47131602
+run:lumi:evt:sampleId = 1:47191:47190457
+run:lumi:evt:sampleId = 1:47211:47210118
+run:lumi:evt:sampleId = 1:47317:47316933
+run:lumi:evt:sampleId = 1:47330:47329100
+run:lumi:evt:sampleId = 1:47486:47485672
+run:lumi:evt:sampleId = 1:47601:47600537
+run:lumi:evt:sampleId = 1:47658:47657511
+run:lumi:evt:sampleId = 1:47736:47735380
+run:lumi:evt:sampleId = 1:47768:47767202
+run:lumi:evt:sampleId = 1:47809:47808393
+run:lumi:evt:sampleId = 1:47831:47830129
+run:lumi:evt:sampleId = 1:47991:47990822
+run:lumi:evt:sampleId = 1:48040:48039831
+run:lumi:evt:sampleId = 1:48085:48084487
+run:lumi:evt:sampleId = 1:48210:48209785
+run:lumi:evt:sampleId = 1:48229:48228963
+run:lumi:evt:sampleId = 1:48363:48362351
+run:lumi:evt:sampleId = 1:48365:48364517
+run:lumi:evt:sampleId = 1:48479:48478961
+run:lumi:evt:sampleId = 1:48671:48670649
+run:lumi:evt:sampleId = 1:48841:48840537
+run:lumi:evt:sampleId = 1:49039:49038154
+run:lumi:evt:sampleId = 1:49205:49204574
+run:lumi:evt:sampleId = 1:49339:49338801
+run:lumi:evt:sampleId = 1:49371:49370644
+run:lumi:evt:sampleId = 1:49452:49451084
+run:lumi:evt:sampleId = 1:49667:49666707
+run:lumi:evt:sampleId = 1:49775:49774074
+run:lumi:evt:sampleId = 1:49797:49796023
+run:lumi:evt:sampleId = 1:49900:49899847
+run:lumi:evt:sampleId = 1:50100:50099199
+run:lumi:evt:sampleId = 1:50322:50321391
+run:lumi:evt:sampleId = 1:50485:50484189
+run:lumi:evt:sampleId = 1:50512:50511076
+run:lumi:evt:sampleId = 1:50605:50604667
+run:lumi:evt:sampleId = 1:50959:50958322
+run:lumi:evt:sampleId = 1:51139:51138837
+run:lumi:evt:sampleId = 1:51311:51310271
+run:lumi:evt:sampleId = 1:51504:51503672
+run:lumi:evt:sampleId = 1:51604:51603805
+run:lumi:evt:sampleId = 1:51794:51793339
+run:lumi:evt:sampleId = 1:51842:51841459
+run:lumi:evt:sampleId = 1:52036:52035811
+run:lumi:evt:sampleId = 1:52038:52037233
+run:lumi:evt:sampleId = 1:52065:52064433
+run:lumi:evt:sampleId = 1:52353:52352724
+run:lumi:evt:sampleId = 1:52840:52839961
+run:lumi:evt:sampleId = 1:53142:53141370
+run:lumi:evt:sampleId = 1:53308:53307952
+run:lumi:evt:sampleId = 1:53760:53759457
+run:lumi:evt:sampleId = 1:53875:53874570
+run:lumi:evt:sampleId = 1:54100:54099677
+run:lumi:evt:sampleId = 1:54161:54160919
+run:lumi:evt:sampleId = 1:54176:54175678
+run:lumi:evt:sampleId = 1:54370:54369872
+run:lumi:evt:sampleId = 1:54451:54450898
+run:lumi:evt:sampleId = 1:54485:54484348
+run:lumi:evt:sampleId = 1:54497:54496741
+run:lumi:evt:sampleId = 1:54504:54503389
+run:lumi:evt:sampleId = 1:54563:54562131
+run:lumi:evt:sampleId = 1:54634:54633293
+run:lumi:evt:sampleId = 1:54707:54706575
+run:lumi:evt:sampleId = 1:55138:55137657
+run:lumi:evt:sampleId = 1:55164:55163175
+run:lumi:evt:sampleId = 1:55387:55386738
+run:lumi:evt:sampleId = 1:55397:55396171
+run:lumi:evt:sampleId = 1:55640:55639649
+run:lumi:evt:sampleId = 1:55684:55683338
+run:lumi:evt:sampleId = 1:55761:55760315
+run:lumi:evt:sampleId = 1:55872:55871875
+run:lumi:evt:sampleId = 1:56127:56126249
+run:lumi:evt:sampleId = 1:56365:56364768
+run:lumi:evt:sampleId = 1:56478:56477223
+run:lumi:evt:sampleId = 1:56555:56554820
+run:lumi:evt:sampleId = 1:56596:56595517
+run:lumi:evt:sampleId = 1:56682:56681452
+run:lumi:evt:sampleId = 1:56817:56816222
+run:lumi:evt:sampleId = 1:56819:56818430
+run:lumi:evt:sampleId = 1:56940:56939361
+run:lumi:evt:sampleId = 1:57064:57063786
+run:lumi:evt:sampleId = 1:57121:57120768
+run:lumi:evt:sampleId = 1:57244:57243109
+run:lumi:evt:sampleId = 1:57279:57278185
+run:lumi:evt:sampleId = 1:57501:57500947
+run:lumi:evt:sampleId = 1:57613:57612688
+run:lumi:evt:sampleId = 1:57676:57675260
+run:lumi:evt:sampleId = 1:57723:57722325
+run:lumi:evt:sampleId = 1:57770:57769657
+run:lumi:evt:sampleId = 1:57837:57836629
+run:lumi:evt:sampleId = 1:57855:57854509
+run:lumi:evt:sampleId = 1:57864:57863286
+run:lumi:evt:sampleId = 1:58001:58000616
+run:lumi:evt:sampleId = 1:58026:58025086
+run:lumi:evt:sampleId = 1:58314:58313763
+run:lumi:evt:sampleId = 1:58387:58386988
+run:lumi:evt:sampleId = 1:58409:58408335
+run:lumi:evt:sampleId = 1:58497:58496958
+run:lumi:evt:sampleId = 1:58501:58500104
+run:lumi:evt:sampleId = 1:58625:58624519
+run:lumi:evt:sampleId = 1:58744:58743724
+run:lumi:evt:sampleId = 1:59025:59024752
+run:lumi:evt:sampleId = 1:59324:59323097
+run:lumi:evt:sampleId = 1:59332:59331203
+run:lumi:evt:sampleId = 1:59449:59448633
+run:lumi:evt:sampleId = 1:59510:59509450
+run:lumi:evt:sampleId = 1:59585:59584068
+run:lumi:evt:sampleId = 1:59704:59703412
+run:lumi:evt:sampleId = 1:59727:59726463
+run:lumi:evt:sampleId = 1:60285:60284963
+run:lumi:evt:sampleId = 1:60560:60559261
+run:lumi:evt:sampleId = 1:60590:60589960
+run:lumi:evt:sampleId = 1:60625:60624038
+run:lumi:evt:sampleId = 1:60642:60641554
+run:lumi:evt:sampleId = 1:60761:60760051
+run:lumi:evt:sampleId = 1:60762:60761425
+run:lumi:evt:sampleId = 1:61010:61009330
+run:lumi:evt:sampleId = 1:61172:61171377
+run:lumi:evt:sampleId = 1:61256:61255921
+run:lumi:evt:sampleId = 1:61383:61382632
+run:lumi:evt:sampleId = 1:61453:61452520
+run:lumi:evt:sampleId = 1:61536:61535492
+run:lumi:evt:sampleId = 1:61872:61871098
+run:lumi:evt:sampleId = 1:61937:61936752
+run:lumi:evt:sampleId = 1:62062:62061298
+run:lumi:evt:sampleId = 1:62168:62167880
+run:lumi:evt:sampleId = 1:62544:62543690
+run:lumi:evt:sampleId = 1:62634:62633367
+run:lumi:evt:sampleId = 1:62703:62702223
+run:lumi:evt:sampleId = 1:62800:62799339
+run:lumi:evt:sampleId = 1:62825:62824420
+run:lumi:evt:sampleId = 1:62889:62888563
+run:lumi:evt:sampleId = 1:62961:62960564
+run:lumi:evt:sampleId = 1:63254:63253016
+run:lumi:evt:sampleId = 1:63404:63403143
+run:lumi:evt:sampleId = 1:63482:63481555
+run:lumi:evt:sampleId = 1:63641:63640405
+run:lumi:evt:sampleId = 1:64153:64152659
+run:lumi:evt:sampleId = 1:64346:64345762
+run:lumi:evt:sampleId = 1:64509:64508568
+run:lumi:evt:sampleId = 1:64603:64602388
+run:lumi:evt:sampleId = 1:64927:64926864
+run:lumi:evt:sampleId = 1:65334:65333333
+run:lumi:evt:sampleId = 1:65335:65334792
+run:lumi:evt:sampleId = 1:65489:65488620
+run:lumi:evt:sampleId = 1:65810:65809878
+run:lumi:evt:sampleId = 1:65942:65941994
+run:lumi:evt:sampleId = 1:66178:66177730
+run:lumi:evt:sampleId = 1:66324:66323021
+run:lumi:evt:sampleId = 1:66606:66605219
+run:lumi:evt:sampleId = 1:66689:66688364
+run:lumi:evt:sampleId = 1:66704:66703986
+run:lumi:evt:sampleId = 1:66920:66919467
+run:lumi:evt:sampleId = 1:67049:67048141
+run:lumi:evt:sampleId = 1:67081:67080672
+run:lumi:evt:sampleId = 1:67155:67154469
+run:lumi:evt:sampleId = 1:67159:67158502
+run:lumi:evt:sampleId = 1:67166:67165388
+run:lumi:evt:sampleId = 1:67271:67270093
+run:lumi:evt:sampleId = 1:67373:67372819
+run:lumi:evt:sampleId = 1:67433:67432496
+run:lumi:evt:sampleId = 1:67462:67461839
+run:lumi:evt:sampleId = 1:67770:67769980
+run:lumi:evt:sampleId = 1:67795:67794267
+run:lumi:evt:sampleId = 1:67924:67923023
+run:lumi:evt:sampleId = 1:68078:68077710
+run:lumi:evt:sampleId = 1:68168:68167518
+run:lumi:evt:sampleId = 1:68204:68203304
+run:lumi:evt:sampleId = 1:68290:68289191
+run:lumi:evt:sampleId = 1:68300:68299733
+run:lumi:evt:sampleId = 1:68507:68506501
+run:lumi:evt:sampleId = 1:68754:68753923
+run:lumi:evt:sampleId = 1:68962:68961220
+run:lumi:evt:sampleId = 1:68988:68987584
+run:lumi:evt:sampleId = 1:69202:69201098
+run:lumi:evt:sampleId = 1:69266:69265166
+run:lumi:evt:sampleId = 1:69280:69279045
+run:lumi:evt:sampleId = 1:69316:69315927
+run:lumi:evt:sampleId = 1:69469:69468985
+run:lumi:evt:sampleId = 1:69635:69634869
+run:lumi:evt:sampleId = 1:69697:69696491
+run:lumi:evt:sampleId = 1:69772:69771161
+run:lumi:evt:sampleId = 1:69773:69772928
+run:lumi:evt:sampleId = 1:70161:70160163
+run:lumi:evt:sampleId = 1:70161:70160394
+run:lumi:evt:sampleId = 1:70181:70180288
+run:lumi:evt:sampleId = 1:70268:70267484
+run:lumi:evt:sampleId = 1:70413:70412558
+run:lumi:evt:sampleId = 1:70587:70586554
+run:lumi:evt:sampleId = 1:70651:70650947
+run:lumi:evt:sampleId = 1:70832:70831890
+run:lumi:evt:sampleId = 1:70938:70937344
+run:lumi:evt:sampleId = 1:70954:70953674
+run:lumi:evt:sampleId = 1:70994:70993727
+run:lumi:evt:sampleId = 1:71052:71051683
+run:lumi:evt:sampleId = 1:71414:71413136
+run:lumi:evt:sampleId = 1:71476:71475966
+run:lumi:evt:sampleId = 1:72043:72042185
+run:lumi:evt:sampleId = 1:72363:72362804
+run:lumi:evt:sampleId = 1:72454:72453824
+run:lumi:evt:sampleId = 1:72517:72516792
+run:lumi:evt:sampleId = 1:72618:72617906
+run:lumi:evt:sampleId = 1:72656:72655003
+run:lumi:evt:sampleId = 1:72803:72802089
+run:lumi:evt:sampleId = 1:73167:73166930
+run:lumi:evt:sampleId = 1:73174:73173254
+run:lumi:evt:sampleId = 1:73343:73342274
+run:lumi:evt:sampleId = 1:73612:73611236
+run:lumi:evt:sampleId = 1:73663:73662610
+run:lumi:evt:sampleId = 1:73771:73770794
+run:lumi:evt:sampleId = 1:73840:73839356
+run:lumi:evt:sampleId = 1:73850:73849012
+run:lumi:evt:sampleId = 1:73967:73966374
+run:lumi:evt:sampleId = 1:74072:74071081
+run:lumi:evt:sampleId = 1:74082:74081028
+run:lumi:evt:sampleId = 1:74238:74237083
+run:lumi:evt:sampleId = 1:74456:74455489
+run:lumi:evt:sampleId = 1:74517:74516310
+run:lumi:evt:sampleId = 1:74615:74614426
+run:lumi:evt:sampleId = 1:74686:74685776
+run:lumi:evt:sampleId = 1:74806:74805928
+run:lumi:evt:sampleId = 1:74951:74950078
+run:lumi:evt:sampleId = 1:74968:74967555
+run:lumi:evt:sampleId = 1:74984:74983447
+run:lumi:evt:sampleId = 1:75029:75028591
+run:lumi:evt:sampleId = 1:75141:75140816
+run:lumi:evt:sampleId = 1:75265:75264292
+run:lumi:evt:sampleId = 1:75334:75333642
+run:lumi:evt:sampleId = 1:75382:75381547
+run:lumi:evt:sampleId = 1:75458:75457664
+run:lumi:evt:sampleId = 1:75638:75637123
+run:lumi:evt:sampleId = 1:75714:75713952
+run:lumi:evt:sampleId = 1:75833:75832622
+run:lumi:evt:sampleId = 1:75979:75978427
+run:lumi:evt:sampleId = 1:76338:76337427
+run:lumi:evt:sampleId = 1:76384:76383420
+run:lumi:evt:sampleId = 1:76730:76729901
+run:lumi:evt:sampleId = 1:76758:76757263
+run:lumi:evt:sampleId = 1:76864:76863551
+run:lumi:evt:sampleId = 1:76944:76943751
+run:lumi:evt:sampleId = 1:77002:77001467
+run:lumi:evt:sampleId = 1:77046:77045476
+run:lumi:evt:sampleId = 1:77212:77211718
+run:lumi:evt:sampleId = 1:77404:77403804
+run:lumi:evt:sampleId = 1:77616:77615201
+run:lumi:evt:sampleId = 1:77796:77795783
+run:lumi:evt:sampleId = 1:77903:77902371
+run:lumi:evt:sampleId = 1:78312:78311503
+run:lumi:evt:sampleId = 1:78574:78573090
+run:lumi:evt:sampleId = 1:78652:78651109
+run:lumi:evt:sampleId = 1:78747:78746571
+run:lumi:evt:sampleId = 1:78804:78803240
+run:lumi:evt:sampleId = 1:78837:78836683
+run:lumi:evt:sampleId = 1:78875:78874883
+run:lumi:evt:sampleId = 1:78878:78877145
+run:lumi:evt:sampleId = 1:78907:78906133
+run:lumi:evt:sampleId = 1:79001:79000279
+run:lumi:evt:sampleId = 1:79151:79150944
+run:lumi:evt:sampleId = 1:79250:79249213
+run:lumi:evt:sampleId = 1:79363:79362348
+run:lumi:evt:sampleId = 1:79443:79442836
+run:lumi:evt:sampleId = 1:79471:79470243
+run:lumi:evt:sampleId = 1:79480:79479898
+run:lumi:evt:sampleId = 1:79520:79519581
+run:lumi:evt:sampleId = 1:80141:80140469
+run:lumi:evt:sampleId = 1:80334:80333453
+run:lumi:evt:sampleId = 1:80359:80358285
+run:lumi:evt:sampleId = 1:80411:80410194
+run:lumi:evt:sampleId = 1:80487:80486709
+run:lumi:evt:sampleId = 1:80596:80595749
+run:lumi:evt:sampleId = 1:80609:80608888
+run:lumi:evt:sampleId = 1:80647:80646334
+run:lumi:evt:sampleId = 1:80648:80647026
+run:lumi:evt:sampleId = 1:80759:80758440
+run:lumi:evt:sampleId = 1:81401:81400165
+run:lumi:evt:sampleId = 1:81602:81601752
+run:lumi:evt:sampleId = 1:81687:81686058
+run:lumi:evt:sampleId = 1:81712:81711035
+run:lumi:evt:sampleId = 1:81840:81839974
+run:lumi:evt:sampleId = 1:81894:81893685
+run:lumi:evt:sampleId = 1:81910:81909173
+run:lumi:evt:sampleId = 1:82018:82017576
+run:lumi:evt:sampleId = 1:82387:82386964
+run:lumi:evt:sampleId = 1:82443:82442739
+run:lumi:evt:sampleId = 1:82470:82469830
+run:lumi:evt:sampleId = 1:82528:82527591
+run:lumi:evt:sampleId = 1:82705:82704364
+run:lumi:evt:sampleId = 1:82762:82761125
+run:lumi:evt:sampleId = 1:82763:82762663
+run:lumi:evt:sampleId = 1:83234:83233565
+run:lumi:evt:sampleId = 1:83243:83242222
+run:lumi:evt:sampleId = 1:83263:83262760
+run:lumi:evt:sampleId = 1:83386:83385320
+run:lumi:evt:sampleId = 1:83392:83391783
+run:lumi:evt:sampleId = 1:83406:83405531
+run:lumi:evt:sampleId = 1:83442:83441963
+run:lumi:evt:sampleId = 1:83601:83600631
+run:lumi:evt:sampleId = 1:83757:83756613
+run:lumi:evt:sampleId = 1:83759:83758363
+run:lumi:evt:sampleId = 1:84103:84102471
+run:lumi:evt:sampleId = 1:84348:84347178
+run:lumi:evt:sampleId = 1:84350:84349738
+run:lumi:evt:sampleId = 1:84496:84495728
+run:lumi:evt:sampleId = 1:84748:84747480
+run:lumi:evt:sampleId = 1:84899:84898032
+run:lumi:evt:sampleId = 1:84931:84930599
+run:lumi:evt:sampleId = 1:84944:84943002
+run:lumi:evt:sampleId = 1:84968:84967129
+run:lumi:evt:sampleId = 1:85060:85059379
+run:lumi:evt:sampleId = 1:85258:85257888
+run:lumi:evt:sampleId = 1:85819:85818396
+run:lumi:evt:sampleId = 1:85915:85914172
+run:lumi:evt:sampleId = 1:86052:86051900
+run:lumi:evt:sampleId = 1:86217:86216184
+run:lumi:evt:sampleId = 1:86233:86232609
+run:lumi:evt:sampleId = 1:86293:86292547
+run:lumi:evt:sampleId = 1:86473:86472091
+run:lumi:evt:sampleId = 1:86530:86529754
+run:lumi:evt:sampleId = 1:86752:86751837
+run:lumi:evt:sampleId = 1:86831:86830454
+run:lumi:evt:sampleId = 1:86919:86918677
+run:lumi:evt:sampleId = 1:86936:86935074
+run:lumi:evt:sampleId = 1:86986:86985950
+run:lumi:evt:sampleId = 1:87098:87097332
+run:lumi:evt:sampleId = 1:87164:87163228
+run:lumi:evt:sampleId = 1:87234:87233802
+run:lumi:evt:sampleId = 1:87473:87472543
+run:lumi:evt:sampleId = 1:87594:87593140
+run:lumi:evt:sampleId = 1:87603:87602882
+run:lumi:evt:sampleId = 1:87827:87826667
+run:lumi:evt:sampleId = 1:87915:87914612
+run:lumi:evt:sampleId = 1:88007:88006864
+run:lumi:evt:sampleId = 1:88097:88096633
+run:lumi:evt:sampleId = 1:88342:88341914
+run:lumi:evt:sampleId = 1:88532:88531624
+run:lumi:evt:sampleId = 1:88687:88686215
+run:lumi:evt:sampleId = 1:88730:88729469
+run:lumi:evt:sampleId = 1:88926:88925600
+run:lumi:evt:sampleId = 1:88985:88984189
+run:lumi:evt:sampleId = 1:89006:89005888
+run:lumi:evt:sampleId = 1:89037:89036183
+run:lumi:evt:sampleId = 1:89106:89105504
+run:lumi:evt:sampleId = 1:89331:89330594
+run:lumi:evt:sampleId = 1:89458:89457787
+run:lumi:evt:sampleId = 1:89537:89536064
+run:lumi:evt:sampleId = 1:89628:89627598
+run:lumi:evt:sampleId = 1:89649:89648293
+run:lumi:evt:sampleId = 1:89718:89717322
+run:lumi:evt:sampleId = 1:89891:89890667
+run:lumi:evt:sampleId = 1:89933:89932979
+run:lumi:evt:sampleId = 1:90019:90018387
+run:lumi:evt:sampleId = 1:90090:90089470
+run:lumi:evt:sampleId = 1:90264:90263385
+run:lumi:evt:sampleId = 1:90352:90351555
+run:lumi:evt:sampleId = 1:90353:90352722
+run:lumi:evt:sampleId = 1:90414:90413745
+run:lumi:evt:sampleId = 1:90431:90430081
+run:lumi:evt:sampleId = 1:90438:90437769
+run:lumi:evt:sampleId = 1:90467:90466360
+run:lumi:evt:sampleId = 1:90779:90778488
+run:lumi:evt:sampleId = 1:91088:91087176
+run:lumi:evt:sampleId = 1:91176:91175518
+run:lumi:evt:sampleId = 1:91253:91252722
+run:lumi:evt:sampleId = 1:91416:91415212
+run:lumi:evt:sampleId = 1:91504:91503679
+run:lumi:evt:sampleId = 1:91601:91600274
+run:lumi:evt:sampleId = 1:91638:91637047
+run:lumi:evt:sampleId = 1:91685:91684172
+run:lumi:evt:sampleId = 1:91781:91780524
+run:lumi:evt:sampleId = 1:91970:91969699
+run:lumi:evt:sampleId = 1:92036:92035354
+run:lumi:evt:sampleId = 1:92141:92140819
+run:lumi:evt:sampleId = 1:92210:92209160
+run:lumi:evt:sampleId = 1:92219:92218943
+run:lumi:evt:sampleId = 1:92570:92569475
+run:lumi:evt:sampleId = 1:92600:92599307
+run:lumi:evt:sampleId = 1:92681:92680264
+run:lumi:evt:sampleId = 1:92743:92742526
+run:lumi:evt:sampleId = 1:92936:92935096
+run:lumi:evt:sampleId = 1:92978:92977652
+run:lumi:evt:sampleId = 1:93005:93004701
+run:lumi:evt:sampleId = 1:93025:93024249
+run:lumi:evt:sampleId = 1:93375:93374966
+run:lumi:evt:sampleId = 1:93490:93489920
+run:lumi:evt:sampleId = 1:93899:93898807
+run:lumi:evt:sampleId = 1:93914:93913812
+run:lumi:evt:sampleId = 1:93943:93942416
+run:lumi:evt:sampleId = 1:93980:93979923
+run:lumi:evt:sampleId = 1:94023:94022664
+run:lumi:evt:sampleId = 1:94085:94084936
+run:lumi:evt:sampleId = 1:94118:94117902
+run:lumi:evt:sampleId = 1:94269:94268816
+run:lumi:evt:sampleId = 1:94421:94420814
+run:lumi:evt:sampleId = 1:94471:94470254
+run:lumi:evt:sampleId = 1:94488:94487260
+run:lumi:evt:sampleId = 1:94491:94490811
+run:lumi:evt:sampleId = 1:94842:94841173
+run:lumi:evt:sampleId = 1:95227:95226905
+run:lumi:evt:sampleId = 1:95229:95228722
+run:lumi:evt:sampleId = 1:95303:95302146
+run:lumi:evt:sampleId = 1:95360:95359204
+run:lumi:evt:sampleId = 1:95374:95373472
+run:lumi:evt:sampleId = 1:95389:95388800
+run:lumi:evt:sampleId = 1:95674:95673518
+run:lumi:evt:sampleId = 1:95693:95692598
+run:lumi:evt:sampleId = 1:95715:95714447
+run:lumi:evt:sampleId = 1:95968:95967166
+run:lumi:evt:sampleId = 1:96089:96088452
+run:lumi:evt:sampleId = 1:96184:96183051
+run:lumi:evt:sampleId = 1:96387:96386106
+run:lumi:evt:sampleId = 1:96527:96526732
+run:lumi:evt:sampleId = 1:97175:97174647
+run:lumi:evt:sampleId = 1:97220:97219035
+run:lumi:evt:sampleId = 1:97291:97290030
+run:lumi:evt:sampleId = 1:98087:98086686
+run:lumi:evt:sampleId = 1:98106:98105900
+run:lumi:evt:sampleId = 1:98196:98195036
+run:lumi:evt:sampleId = 1:98253:98252103
+run:lumi:evt:sampleId = 1:98449:98448209
+run:lumi:evt:sampleId = 1:98632:98631919
+run:lumi:evt:sampleId = 1:98711:98710930
+run:lumi:evt:sampleId = 1:98754:98753162
+run:lumi:evt:sampleId = 1:98789:98788119
+run:lumi:evt:sampleId = 1:99112:99111307
+run:lumi:evt:sampleId = 1:99225:99224175
+run:lumi:evt:sampleId = 1:99306:99305009
+run:lumi:evt:sampleId = 1:99452:99451650
+run:lumi:evt:sampleId = 1:99475:99474611
+run:lumi:evt:sampleId = 1:99498:99497403
+run:lumi:evt:sampleId = 1:99724:99723134
+run:lumi:evt:sampleId = 1:99736:99735802
+run:lumi:evt:sampleId = 1:99795:99794953
+run:lumi:evt:sampleId = 1:99930:99929594
+run:lumi:evt:sampleId = 1:99988:99987889
+run:lumi:evt:sampleId = 1:100012:100011084
+run:lumi:evt:sampleId = 1:100107:100106545
+run:lumi:evt:sampleId = 1:100120:100119939
+run:lumi:evt:sampleId = 1:100346:100345010
+run:lumi:evt:sampleId = 1:100396:100395673
+run:lumi:evt:sampleId = 1:100588:100587503
+run:lumi:evt:sampleId = 1:100838:100837914
+run:lumi:evt:sampleId = 1:100857:100856712
+run:lumi:evt:sampleId = 1:100926:100925076
+run:lumi:evt:sampleId = 1:100991:100990235
+run:lumi:evt:sampleId = 1:101037:101036962
+run:lumi:evt:sampleId = 1:101122:101121016
+run:lumi:evt:sampleId = 1:101189:101188795
+run:lumi:evt:sampleId = 1:101350:101349003
+run:lumi:evt:sampleId = 1:101632:101631876
+run:lumi:evt:sampleId = 1:102123:102122086
+run:lumi:evt:sampleId = 1:102229:102228095
+run:lumi:evt:sampleId = 1:102441:102440578
+run:lumi:evt:sampleId = 1:102600:102599529
+run:lumi:evt:sampleId = 1:102648:102647987
+run:lumi:evt:sampleId = 1:102661:102660710
+run:lumi:evt:sampleId = 1:102849:102848933
+run:lumi:evt:sampleId = 1:102976:102975974
+run:lumi:evt:sampleId = 1:103062:103061514
+run:lumi:evt:sampleId = 1:103107:103106851
+run:lumi:evt:sampleId = 1:103206:103205033
+run:lumi:evt:sampleId = 1:103385:103384112
+run:lumi:evt:sampleId = 1:103589:103588527
+run:lumi:evt:sampleId = 1:103739:103738440
+run:lumi:evt:sampleId = 1:103819:103818260
+run:lumi:evt:sampleId = 1:103924:103923720
+run:lumi:evt:sampleId = 1:104150:104149690
+run:lumi:evt:sampleId = 1:104205:104204135
+run:lumi:evt:sampleId = 1:104242:104241074
+run:lumi:evt:sampleId = 1:104262:104261403
+run:lumi:evt:sampleId = 1:104296:104295684
+run:lumi:evt:sampleId = 1:104375:104374152
+run:lumi:evt:sampleId = 1:104386:104385828
+run:lumi:evt:sampleId = 1:104581:104580712
+run:lumi:evt:sampleId = 1:104590:104589266
+run:lumi:evt:sampleId = 1:104793:104792798
+run:lumi:evt:sampleId = 1:104869:104868407
+run:lumi:evt:sampleId = 1:104911:104910783
+run:lumi:evt:sampleId = 1:105025:105024788
+run:lumi:evt:sampleId = 1:105126:105125274
+run:lumi:evt:sampleId = 1:105203:105202602
+run:lumi:evt:sampleId = 1:105276:105275076
+run:lumi:evt:sampleId = 1:105456:105455470
+run:lumi:evt:sampleId = 1:105523:105522078
+run:lumi:evt:sampleId = 1:105580:105579548
+run:lumi:evt:sampleId = 1:105581:105580586
+run:lumi:evt:sampleId = 1:105625:105624381
+run:lumi:evt:sampleId = 1:105654:105653959
+run:lumi:evt:sampleId = 1:105659:105658903
+run:lumi:evt:sampleId = 1:105902:105901341
+run:lumi:evt:sampleId = 1:106046:106045992
+run:lumi:evt:sampleId = 1:106172:106171566
+run:lumi:evt:sampleId = 1:106354:106353642
+run:lumi:evt:sampleId = 1:106361:106360820
+run:lumi:evt:sampleId = 1:106425:106424340
+run:lumi:evt:sampleId = 1:106457:106456019
+run:lumi:evt:sampleId = 1:106539:106538736
+run:lumi:evt:sampleId = 1:106837:106836845
+run:lumi:evt:sampleId = 1:107011:107010288
+run:lumi:evt:sampleId = 1:107071:107070977
+run:lumi:evt:sampleId = 1:107127:107126043
+run:lumi:evt:sampleId = 1:107153:107152674
+run:lumi:evt:sampleId = 1:107418:107417650
+run:lumi:evt:sampleId = 1:107553:107552567
+run:lumi:evt:sampleId = 1:107600:107599774
+run:lumi:evt:sampleId = 1:107632:107631165
+run:lumi:evt:sampleId = 1:107695:107694088
+run:lumi:evt:sampleId = 1:107714:107713049
+run:lumi:evt:sampleId = 1:107714:107713754
+run:lumi:evt:sampleId = 1:107784:107783812
+run:lumi:evt:sampleId = 1:107949:107948591
+run:lumi:evt:sampleId = 1:107983:107982968
+run:lumi:evt:sampleId = 1:108118:108117894
+run:lumi:evt:sampleId = 1:108779:108778564
+run:lumi:evt:sampleId = 1:108891:108890215
+run:lumi:evt:sampleId = 1:109026:109025576
+run:lumi:evt:sampleId = 1:109124:109123855
+run:lumi:evt:sampleId = 1:109177:109176323
+run:lumi:evt:sampleId = 1:109214:109213677
+run:lumi:evt:sampleId = 1:109292:109291076
+run:lumi:evt:sampleId = 1:109392:109391917
+run:lumi:evt:sampleId = 1:109560:109559534
+run:lumi:evt:sampleId = 1:109641:109640321
+run:lumi:evt:sampleId = 1:109888:109887667
+run:lumi:evt:sampleId = 1:109891:109890035
+run:lumi:evt:sampleId = 1:109902:109901081
+run:lumi:evt:sampleId = 1:110109:110108252
+run:lumi:evt:sampleId = 1:110554:110553821
+run:lumi:evt:sampleId = 1:110619:110618528
+run:lumi:evt:sampleId = 1:110761:110760119
+run:lumi:evt:sampleId = 1:110801:110800029
+run:lumi:evt:sampleId = 1:110865:110864945
+run:lumi:evt:sampleId = 1:110931:110930838
+run:lumi:evt:sampleId = 1:110952:110951109
+run:lumi:evt:sampleId = 1:110965:110964524
+run:lumi:evt:sampleId = 1:111022:111021810
+run:lumi:evt:sampleId = 1:111392:111391548
+run:lumi:evt:sampleId = 1:111443:111442701
+run:lumi:evt:sampleId = 1:111659:111658586
+run:lumi:evt:sampleId = 1:112029:112028577
+run:lumi:evt:sampleId = 1:112085:112084538
+run:lumi:evt:sampleId = 1:112180:112179325
+run:lumi:evt:sampleId = 1:112188:112187887
+run:lumi:evt:sampleId = 1:112223:112222324
+run:lumi:evt:sampleId = 1:112267:112266125
+run:lumi:evt:sampleId = 1:112305:112304775
+run:lumi:evt:sampleId = 1:112520:112519280
+run:lumi:evt:sampleId = 1:112833:112832576
+run:lumi:evt:sampleId = 1:113044:113043479
+run:lumi:evt:sampleId = 1:113118:113117741
+run:lumi:evt:sampleId = 1:113167:113166579
+run:lumi:evt:sampleId = 1:113190:113189370
+run:lumi:evt:sampleId = 1:113296:113295038
+run:lumi:evt:sampleId = 1:113368:113367707
+run:lumi:evt:sampleId = 1:113370:113369159
+run:lumi:evt:sampleId = 1:113471:113470343
+run:lumi:evt:sampleId = 1:113690:113689921
+run:lumi:evt:sampleId = 1:113996:113995969
+run:lumi:evt:sampleId = 1:114018:114017108
+run:lumi:evt:sampleId = 1:114120:114119932
+run:lumi:evt:sampleId = 1:114351:114350696
+run:lumi:evt:sampleId = 1:114425:114424479
+run:lumi:evt:sampleId = 1:114458:114457649
+run:lumi:evt:sampleId = 1:114492:114491819
+run:lumi:evt:sampleId = 1:114610:114609158
+run:lumi:evt:sampleId = 1:114747:114746472
+run:lumi:evt:sampleId = 1:114924:114923707
+run:lumi:evt:sampleId = 1:115104:115103966
+run:lumi:evt:sampleId = 1:115266:115265055
+run:lumi:evt:sampleId = 1:115390:115390000
+run:lumi:evt:sampleId = 1:115555:115554667
+run:lumi:evt:sampleId = 1:115837:115836949
+run:lumi:evt:sampleId = 1:115989:115988370
+run:lumi:evt:sampleId = 1:116036:116035379
+run:lumi:evt:sampleId = 1:116169:116168726
+run:lumi:evt:sampleId = 1:116189:116188467
+run:lumi:evt:sampleId = 1:116345:116344369
+run:lumi:evt:sampleId = 1:116410:116409471
+run:lumi:evt:sampleId = 1:116452:116451998
+run:lumi:evt:sampleId = 1:116537:116536859
+run:lumi:evt:sampleId = 1:116609:116608056
+run:lumi:evt:sampleId = 1:116621:116620173
+run:lumi:evt:sampleId = 1:116742:116741731
+run:lumi:evt:sampleId = 1:117018:117017320
+run:lumi:evt:sampleId = 1:117157:117156397
+run:lumi:evt:sampleId = 1:117227:117226757
+run:lumi:evt:sampleId = 1:117320:117319455
+run:lumi:evt:sampleId = 1:117548:117547293
+run:lumi:evt:sampleId = 1:117580:117579201
+run:lumi:evt:sampleId = 1:117671:117670503
+run:lumi:evt:sampleId = 1:117718:117717234
+run:lumi:evt:sampleId = 1:117942:117941327
+run:lumi:evt:sampleId = 1:118149:118148485
+run:lumi:evt:sampleId = 1:118244:118243898
+run:lumi:evt:sampleId = 1:118404:118403862
+run:lumi:evt:sampleId = 1:118453:118452378
+run:lumi:evt:sampleId = 1:118490:118489490
+run:lumi:evt:sampleId = 1:118694:118693718
+run:lumi:evt:sampleId = 1:118780:118779753
+run:lumi:evt:sampleId = 1:118868:118867571
+run:lumi:evt:sampleId = 1:118948:118947942
+run:lumi:evt:sampleId = 1:119075:119074774
+run:lumi:evt:sampleId = 1:119180:119179958
+run:lumi:evt:sampleId = 1:119219:119218347
+run:lumi:evt:sampleId = 1:119304:119303275
+run:lumi:evt:sampleId = 1:119452:119451833
+run:lumi:evt:sampleId = 1:119490:119489121
+run:lumi:evt:sampleId = 1:119561:119560424
+run:lumi:evt:sampleId = 1:119769:119768215
+run:lumi:evt:sampleId = 1:119794:119793626
+run:lumi:evt:sampleId = 1:119802:119801288
+run:lumi:evt:sampleId = 1:119899:119898765
+run:lumi:evt:sampleId = 1:119904:119903272
+run:lumi:evt:sampleId = 1:120036:120035035
+run:lumi:evt:sampleId = 1:120258:120257009
+run:lumi:evt:sampleId = 1:120340:120339482
+run:lumi:evt:sampleId = 1:120512:120511445
+run:lumi:evt:sampleId = 1:120560:120559957
+run:lumi:evt:sampleId = 1:120589:120588267
+run:lumi:evt:sampleId = 1:120670:120669819
+run:lumi:evt:sampleId = 1:120728:120727834
+run:lumi:evt:sampleId = 1:120752:120751740
+run:lumi:evt:sampleId = 1:120986:120985970
+run:lumi:evt:sampleId = 1:121095:121094139
+run:lumi:evt:sampleId = 1:121209:121208067
+run:lumi:evt:sampleId = 1:121256:121255671
+run:lumi:evt:sampleId = 1:121294:121293998
+run:lumi:evt:sampleId = 1:121347:121346074
+run:lumi:evt:sampleId = 1:121371:121370634
+run:lumi:evt:sampleId = 1:121494:121493051
+run:lumi:evt:sampleId = 1:121654:121653631
+run:lumi:evt:sampleId = 1:121741:121740214
+run:lumi:evt:sampleId = 1:121936:121935328
+run:lumi:evt:sampleId = 1:121976:121975251
+run:lumi:evt:sampleId = 1:122029:122028328
+run:lumi:evt:sampleId = 1:122083:122082643
+run:lumi:evt:sampleId = 1:122106:122105831
+run:lumi:evt:sampleId = 1:122131:122130771
+run:lumi:evt:sampleId = 1:122142:122141898
+run:lumi:evt:sampleId = 1:122217:122216100
+run:lumi:evt:sampleId = 1:122330:122329862
+run:lumi:evt:sampleId = 1:122399:122398010
+run:lumi:evt:sampleId = 1:122407:122406625
+run:lumi:evt:sampleId = 1:122730:122729424
+run:lumi:evt:sampleId = 1:122841:122840489
+run:lumi:evt:sampleId = 1:122888:122887594
+run:lumi:evt:sampleId = 1:122919:122918845
+run:lumi:evt:sampleId = 1:123306:123305005
+run:lumi:evt:sampleId = 1:123308:123307780
+run:lumi:evt:sampleId = 1:123527:123526713
+run:lumi:evt:sampleId = 1:123583:123582298
+run:lumi:evt:sampleId = 1:123908:123907099
+run:lumi:evt:sampleId = 1:123922:123921659
+run:lumi:evt:sampleId = 1:123958:123957629
+run:lumi:evt:sampleId = 1:124233:124232163
+run:lumi:evt:sampleId = 1:124331:124330893
+run:lumi:evt:sampleId = 1:124423:124422431
+run:lumi:evt:sampleId = 1:124511:124510980
+run:lumi:evt:sampleId = 1:124524:124523726
+run:lumi:evt:sampleId = 1:124642:124641753
+run:lumi:evt:sampleId = 1:124746:124745772
+run:lumi:evt:sampleId = 1:125000:124999055
+run:lumi:evt:sampleId = 1:125032:125031922
+run:lumi:evt:sampleId = 1:125036:125035231
+run:lumi:evt:sampleId = 1:125115:125114642
+run:lumi:evt:sampleId = 1:125281:125280038
+run:lumi:evt:sampleId = 1:125357:125356806
+run:lumi:evt:sampleId = 1:125817:125816377
+run:lumi:evt:sampleId = 1:125924:125923659
+run:lumi:evt:sampleId = 1:125991:125990480
+run:lumi:evt:sampleId = 1:126540:126539672
+run:lumi:evt:sampleId = 1:126560:126559334
+run:lumi:evt:sampleId = 1:126762:126761696
+run:lumi:evt:sampleId = 1:126797:126796780
+run:lumi:evt:sampleId = 1:126911:126910099
+run:lumi:evt:sampleId = 1:127451:127450767
+run:lumi:evt:sampleId = 1:127578:127577055
+run:lumi:evt:sampleId = 1:127621:127620683
+run:lumi:evt:sampleId = 1:127675:127674390
+run:lumi:evt:sampleId = 1:127892:127891184
+run:lumi:evt:sampleId = 1:127944:127943790
+run:lumi:evt:sampleId = 1:127951:127950658
+run:lumi:evt:sampleId = 1:128120:128119930
+run:lumi:evt:sampleId = 1:128280:128279331
+run:lumi:evt:sampleId = 1:128343:128342901
+run:lumi:evt:sampleId = 1:128525:128524298
+run:lumi:evt:sampleId = 1:128542:128541153
+run:lumi:evt:sampleId = 1:128680:128679995
+run:lumi:evt:sampleId = 1:128694:128693984
+run:lumi:evt:sampleId = 1:128937:128936464
+run:lumi:evt:sampleId = 1:128969:128968892
+run:lumi:evt:sampleId = 1:129485:129484449
+run:lumi:evt:sampleId = 1:129569:129568542
+run:lumi:evt:sampleId = 1:129650:129649817
+run:lumi:evt:sampleId = 1:129695:129694932
+run:lumi:evt:sampleId = 1:129766:129765216
+run:lumi:evt:sampleId = 1:129795:129794047
+run:lumi:evt:sampleId = 1:129880:129879472
+run:lumi:evt:sampleId = 1:129955:129954761
+run:lumi:evt:sampleId = 1:129980:129979536
+run:lumi:evt:sampleId = 1:130055:130054762
+run:lumi:evt:sampleId = 1:130229:130228178
+run:lumi:evt:sampleId = 1:130411:130410776
+run:lumi:evt:sampleId = 1:130677:130676360
+run:lumi:evt:sampleId = 1:130841:130840743
+run:lumi:evt:sampleId = 1:130954:130953110
+run:lumi:evt:sampleId = 1:131039:131038968
+run:lumi:evt:sampleId = 1:131049:131048650
+run:lumi:evt:sampleId = 1:131093:131092314
+run:lumi:evt:sampleId = 1:131116:131115396
+run:lumi:evt:sampleId = 1:131219:131218818
+run:lumi:evt:sampleId = 1:131232:131231666
+run:lumi:evt:sampleId = 1:131289:131288977
+run:lumi:evt:sampleId = 1:131320:131319233
+run:lumi:evt:sampleId = 1:131342:131341094
+run:lumi:evt:sampleId = 1:131509:131508414
+run:lumi:evt:sampleId = 1:131562:131561341
+run:lumi:evt:sampleId = 1:131646:131645943
+run:lumi:evt:sampleId = 1:131727:131726725
+run:lumi:evt:sampleId = 1:131830:131829336
+run:lumi:evt:sampleId = 1:131869:131868734
+run:lumi:evt:sampleId = 1:132140:132139439
+run:lumi:evt:sampleId = 1:132151:132150501
+run:lumi:evt:sampleId = 1:132214:132213565
+run:lumi:evt:sampleId = 1:132347:132346013
+run:lumi:evt:sampleId = 1:132372:132371760
+run:lumi:evt:sampleId = 1:132483:132482990
+run:lumi:evt:sampleId = 1:132530:132529302
+run:lumi:evt:sampleId = 1:132859:132858555
+run:lumi:evt:sampleId = 1:132894:132893379
+run:lumi:evt:sampleId = 1:132943:132942864
+run:lumi:evt:sampleId = 1:133026:133025697
+run:lumi:evt:sampleId = 1:133274:133273613
+run:lumi:evt:sampleId = 1:133340:133339568
+run:lumi:evt:sampleId = 1:133513:133512245
+run:lumi:evt:sampleId = 1:133531:133530443
+run:lumi:evt:sampleId = 1:133767:133766502
+run:lumi:evt:sampleId = 1:133802:133801467
+run:lumi:evt:sampleId = 1:133868:133867325
+run:lumi:evt:sampleId = 1:133883:133882146
+run:lumi:evt:sampleId = 1:133939:133938982
+run:lumi:evt:sampleId = 1:134187:134186332
+run:lumi:evt:sampleId = 1:134246:134245971
+run:lumi:evt:sampleId = 1:134265:134264277
+run:lumi:evt:sampleId = 1:134510:134509436
+run:lumi:evt:sampleId = 1:134520:134519740
+run:lumi:evt:sampleId = 1:134612:134611851
+run:lumi:evt:sampleId = 1:134722:134721384
+run:lumi:evt:sampleId = 1:134749:134748564
+run:lumi:evt:sampleId = 1:134788:134787400
+run:lumi:evt:sampleId = 1:134902:134901451
+run:lumi:evt:sampleId = 1:134970:134969287
+run:lumi:evt:sampleId = 1:135118:135117141
+run:lumi:evt:sampleId = 1:135327:135326487
+run:lumi:evt:sampleId = 1:135434:135433293
+run:lumi:evt:sampleId = 1:135461:135460472
+run:lumi:evt:sampleId = 1:135715:135714390
+run:lumi:evt:sampleId = 1:135773:135772606
+run:lumi:evt:sampleId = 1:135979:135978342
+run:lumi:evt:sampleId = 1:136034:136033946
+run:lumi:evt:sampleId = 1:136111:136110893
+run:lumi:evt:sampleId = 1:136196:136195360
+run:lumi:evt:sampleId = 1:136292:136291263
+run:lumi:evt:sampleId = 1:136331:136330441
+run:lumi:evt:sampleId = 1:136400:136399863
+run:lumi:evt:sampleId = 1:136586:136585382
+run:lumi:evt:sampleId = 1:136589:136588595
+run:lumi:evt:sampleId = 1:136661:136660149
+run:lumi:evt:sampleId = 1:136673:136672866
+run:lumi:evt:sampleId = 1:136767:136766230
+run:lumi:evt:sampleId = 1:136856:136855477
+run:lumi:evt:sampleId = 1:136960:136959189
+run:lumi:evt:sampleId = 1:137033:137032797
+run:lumi:evt:sampleId = 1:137062:137061744
+run:lumi:evt:sampleId = 1:137182:137181085
+run:lumi:evt:sampleId = 1:137215:137214093
+run:lumi:evt:sampleId = 1:137256:137255795
+run:lumi:evt:sampleId = 1:137308:137307280
+run:lumi:evt:sampleId = 1:137552:137551259
+run:lumi:evt:sampleId = 1:137564:137563477
+run:lumi:evt:sampleId = 1:137623:137622280
+run:lumi:evt:sampleId = 1:137649:137648012
+run:lumi:evt:sampleId = 1:137684:137683903
+run:lumi:evt:sampleId = 1:137694:137693842
+run:lumi:evt:sampleId = 1:137779:137778613
+run:lumi:evt:sampleId = 1:137984:137983347
+run:lumi:evt:sampleId = 1:138076:138075018
+run:lumi:evt:sampleId = 1:138151:138150837
+run:lumi:evt:sampleId = 1:138257:138256138
+run:lumi:evt:sampleId = 1:138268:138267174
+run:lumi:evt:sampleId = 1:138286:138285958
+run:lumi:evt:sampleId = 1:138306:138305585
+run:lumi:evt:sampleId = 1:138568:138567162
+run:lumi:evt:sampleId = 1:138631:138630700
+run:lumi:evt:sampleId = 1:138731:138730376
+run:lumi:evt:sampleId = 1:138792:138791124
+run:lumi:evt:sampleId = 1:138991:138990994
+run:lumi:evt:sampleId = 1:139008:139007967
+run:lumi:evt:sampleId = 1:139071:139070466
+run:lumi:evt:sampleId = 1:139352:139351704
+run:lumi:evt:sampleId = 1:139446:139445825
+run:lumi:evt:sampleId = 1:139464:139463816
+run:lumi:evt:sampleId = 1:139491:139490483
+run:lumi:evt:sampleId = 1:139567:139566112
+run:lumi:evt:sampleId = 1:139987:139986499
+run:lumi:evt:sampleId = 1:140053:140052615
+run:lumi:evt:sampleId = 1:140173:140172878
+run:lumi:evt:sampleId = 1:140298:140297477
+run:lumi:evt:sampleId = 1:140415:140414235
+run:lumi:evt:sampleId = 1:140819:140818903
+run:lumi:evt:sampleId = 1:140840:140839553
+run:lumi:evt:sampleId = 1:140876:140875689
+run:lumi:evt:sampleId = 1:140984:140983177
+run:lumi:evt:sampleId = 1:141049:141048467
+run:lumi:evt:sampleId = 1:141137:141136751
+run:lumi:evt:sampleId = 1:141278:141277681
+run:lumi:evt:sampleId = 1:141281:141280073
+run:lumi:evt:sampleId = 1:141415:141414114
+run:lumi:evt:sampleId = 1:141454:141453621
+run:lumi:evt:sampleId = 1:141537:141536101
+run:lumi:evt:sampleId = 1:141616:141615056
+run:lumi:evt:sampleId = 1:141645:141644879
+run:lumi:evt:sampleId = 1:141906:141905294
+run:lumi:evt:sampleId = 1:141925:141924371
+run:lumi:evt:sampleId = 1:142018:142017414
+run:lumi:evt:sampleId = 1:142093:142092535
+run:lumi:evt:sampleId = 1:142129:142128964
+run:lumi:evt:sampleId = 1:142314:142313084
+run:lumi:evt:sampleId = 1:142405:142404424
+run:lumi:evt:sampleId = 1:142416:142415656
+run:lumi:evt:sampleId = 1:142511:142510794
+run:lumi:evt:sampleId = 1:142889:142888808
+run:lumi:evt:sampleId = 1:142907:142906837
+run:lumi:evt:sampleId = 1:143059:143058315
+run:lumi:evt:sampleId = 1:143260:143259572
+run:lumi:evt:sampleId = 1:143386:143385274
+run:lumi:evt:sampleId = 1:143433:143432821
+run:lumi:evt:sampleId = 1:143519:143518533
+run:lumi:evt:sampleId = 1:143598:143597024
+run:lumi:evt:sampleId = 1:143694:143693519
+run:lumi:evt:sampleId = 1:143796:143795940
+run:lumi:evt:sampleId = 1:144065:144064697
+run:lumi:evt:sampleId = 1:144234:144233952
+run:lumi:evt:sampleId = 1:144242:144241432
+run:lumi:evt:sampleId = 1:144325:144324918
+run:lumi:evt:sampleId = 1:144585:144584996
+run:lumi:evt:sampleId = 1:144632:144631226
+run:lumi:evt:sampleId = 1:144663:144662731
+run:lumi:evt:sampleId = 1:144836:144835248
+run:lumi:evt:sampleId = 1:144963:144962424
+run:lumi:evt:sampleId = 1:145067:145066595
+run:lumi:evt:sampleId = 1:145196:145195402
+run:lumi:evt:sampleId = 1:145249:145248234
+run:lumi:evt:sampleId = 1:145253:145252582
+run:lumi:evt:sampleId = 1:145311:145310878
+run:lumi:evt:sampleId = 1:145656:145655257
+run:lumi:evt:sampleId = 1:145666:145665815
+run:lumi:evt:sampleId = 1:145891:145890994
+run:lumi:evt:sampleId = 1:145947:145946694
+run:lumi:evt:sampleId = 1:146164:146163072
+run:lumi:evt:sampleId = 1:146172:146171646
+run:lumi:evt:sampleId = 1:146351:146350162
+run:lumi:evt:sampleId = 1:146720:146719630
+run:lumi:evt:sampleId = 1:146765:146764016
+run:lumi:evt:sampleId = 1:146780:146779310
+run:lumi:evt:sampleId = 1:146854:146853263
+run:lumi:evt:sampleId = 1:147008:147007229
+run:lumi:evt:sampleId = 1:147080:147079542
+run:lumi:evt:sampleId = 1:147272:147271716
+run:lumi:evt:sampleId = 1:147474:147473158
+run:lumi:evt:sampleId = 1:147871:147870623
+run:lumi:evt:sampleId = 1:148184:148183606
+run:lumi:evt:sampleId = 1:148203:148202699
+run:lumi:evt:sampleId = 1:148262:148261274
+run:lumi:evt:sampleId = 1:148298:148297682
+run:lumi:evt:sampleId = 1:148311:148310021
+run:lumi:evt:sampleId = 1:148375:148374888
+run:lumi:evt:sampleId = 1:148389:148388767
+run:lumi:evt:sampleId = 1:148424:148423137
+run:lumi:evt:sampleId = 1:148593:148592206
+run:lumi:evt:sampleId = 1:148639:148638017
+run:lumi:evt:sampleId = 1:148662:148661963
+run:lumi:evt:sampleId = 1:148709:148708259
+run:lumi:evt:sampleId = 1:149033:149032758
+run:lumi:evt:sampleId = 1:149128:149127700
+run:lumi:evt:sampleId = 1:149145:149144256
+run:lumi:evt:sampleId = 1:149244:149243117
+run:lumi:evt:sampleId = 1:149487:149486006
+run:lumi:evt:sampleId = 1:149600:149599551
+run:lumi:evt:sampleId = 1:149791:149790134
+run:lumi:evt:sampleId = 1:149795:149794195
+run:lumi:evt:sampleId = 1:149860:149859010
+tau1_pt bad events:
+run:lumi:evt:sampleId = 1:7116:7115893, Ciemat = 136.485, Pi = 139.139, Ciemat - Pi = -2.65462
+run:lumi:evt:sampleId = 1:8570:8569798, Ciemat = 80.4241, Pi = 81.9884, Ciemat - Pi = -1.56425
+run:lumi:evt:sampleId = 1:8748:8747038, Ciemat = 41.104, Pi = 41.6638, Ciemat - Pi = -0.559837
+run:lumi:evt:sampleId = 1:12352:12351154, Ciemat = 74.0006, Pi = 75.4399, Ciemat - Pi = -1.43931
+run:lumi:evt:sampleId = 1:20559:20558231, Ciemat = 43.5946, Pi = 42.7629, Ciemat - Pi = 0.831738
+run:lumi:evt:sampleId = 1:20967:20966480, Ciemat = 47.8444, Pi = 48.496, Ciemat - Pi = -0.651642
+run:lumi:evt:sampleId = 1:21143:21142749, Ciemat = 68.8687, Pi = 67.5547, Ciemat - Pi = 1.31394
+run:lumi:evt:sampleId = 1:26777:26776865, Ciemat = 181.802, Pi = 185.338, Ciemat - Pi = -3.53606
+run:lumi:evt:sampleId = 1:27520:27519010, Ciemat = 66.2108, Pi = 67.4986, Ciemat - Pi = -1.2878
+run:lumi:evt:sampleId = 1:27795:27794089, Ciemat = 242.509, Pi = 247.226, Ciemat - Pi = -4.7168
+run:lumi:evt:sampleId = 1:28239:28238061, Ciemat = 58.6063, Pi = 59.7462, Ciemat - Pi = -1.13989
+run:lumi:evt:sampleId = 1:28416:28415501, Ciemat = 57.5324, Pi = 58.316, Ciemat - Pi = -0.783592
+run:lumi:evt:sampleId = 1:30886:30885560, Ciemat = 95.3727, Pi = 97.2277, Ciemat - Pi = -1.855
+run:lumi:evt:sampleId = 1:31251:31250727, Ciemat = 43.3138, Pi = 42.6641, Ciemat - Pi = 0.649708
+run:lumi:evt:sampleId = 1:31518:31517455, Ciemat = 46.4818, Pi = 47.3859, Ciemat - Pi = -0.904072
+run:lumi:evt:sampleId = 1:32600:32599684, Ciemat = 49.6508, Pi = 50.3271, Ciemat - Pi = -0.676243
+run:lumi:evt:sampleId = 1:37204:37203356, Ciemat = 97.4415, Pi = 99.3367, Ciemat - Pi = -1.89524
+run:lumi:evt:sampleId = 1:41080:41079609, Ciemat = 48.6056, Pi = 50.1591, Ciemat - Pi = -1.55342
+run:lumi:evt:sampleId = 1:42175:42174414, Ciemat = 56.9066, Pi = 56.053, Ciemat - Pi = 0.8536
+run:lumi:evt:sampleId = 1:43207:43206354, Ciemat = 87.893, Pi = 89.6025, Ciemat - Pi = -1.70952
+run:lumi:evt:sampleId = 1:44942:44941232, Ciemat = 192.874, Pi = 196.625, Ciemat - Pi = -3.7514
+run:lumi:evt:sampleId = 1:45941:45940067, Ciemat = 52.3536, Pi = 53.0666, Ciemat - Pi = -0.713055
+run:lumi:evt:sampleId = 1:58618:58617491, Ciemat = 68.8895, Pi = 70.2294, Ciemat - Pi = -1.3399
+run:lumi:evt:sampleId = 1:59630:59629435, Ciemat = 58.6848, Pi = 59.4841, Ciemat - Pi = -0.799286
+run:lumi:evt:sampleId = 1:59871:59870882, Ciemat = 108.339, Pi = 109.815, Ciemat - Pi = -1.47558
+run:lumi:evt:sampleId = 1:60900:60899419, Ciemat = 42.6412, Pi = 43.4706, Ciemat - Pi = -0.829372
+run:lumi:evt:sampleId = 1:62521:62520497, Ciemat = 50.7799, Pi = 51.4715, Ciemat - Pi = -0.691624
+run:lumi:evt:sampleId = 1:62886:62885069, Ciemat = 46.194, Pi = 45.3127, Ciemat - Pi = 0.881332
+run:lumi:evt:sampleId = 1:63164:63163642, Ciemat = 84.6079, Pi = 83.3388, Ciemat - Pi = 1.26912
+run:lumi:evt:sampleId = 1:67916:67915430, Ciemat = 103.176, Pi = 105.183, Ciemat - Pi = -2.00678
+run:lumi:evt:sampleId = 1:68100:68099919, Ciemat = 53.5518, Pi = 54.3673, Ciemat - Pi = -0.81551
+run:lumi:evt:sampleId = 1:68800:68799384, Ciemat = 61.1342, Pi = 61.9669, Ciemat - Pi = -0.832649
+run:lumi:evt:sampleId = 1:68800:68799708, Ciemat = 60.051, Pi = 58.1912, Ciemat - Pi = 1.85978
+run:lumi:evt:sampleId = 1:71016:71015419, Ciemat = 71.8724, Pi = 70.7943, Ciemat - Pi = 1.07809
+run:lumi:evt:sampleId = 1:74439:74438399, Ciemat = 50.1253, Pi = 50.808, Ciemat - Pi = -0.682705
+run:lumi:evt:sampleId = 1:77480:77479659, Ciemat = 50.1493, Pi = 50.8324, Ciemat - Pi = -0.683033
+run:lumi:evt:sampleId = 1:77963:77962279, Ciemat = 53.2176, Pi = 52.2022, Ciemat - Pi = 1.01534
+run:lumi:evt:sampleId = 1:79751:79750799, Ciemat = 44.5907, Pi = 43.9915, Ciemat - Pi = 0.599163
+run:lumi:evt:sampleId = 1:83966:83965612, Ciemat = 67.4633, Pi = 66.1762, Ciemat - Pi = 1.28712
+run:lumi:evt:sampleId = 1:86751:86750663, Ciemat = 160.127, Pi = 163.242, Ciemat - Pi = -3.11447
+run:lumi:evt:sampleId = 1:87379:87378510, Ciemat = 112.863, Pi = 110.71, Ciemat - Pi = 2.15331
+run:lumi:evt:sampleId = 1:89392:89391405, Ciemat = 64.1575, Pi = 62.9335, Ciemat - Pi = 1.22405
+run:lumi:evt:sampleId = 1:91795:91794498, Ciemat = 61.9443, Pi = 62.7879, Ciemat - Pi = -0.843681
+run:lumi:evt:sampleId = 1:94060:94059363, Ciemat = 119.462, Pi = 121.785, Ciemat - Pi = -2.32353
+run:lumi:evt:sampleId = 1:94179:94178459, Ciemat = 47.8825, Pi = 46.969, Ciemat - Pi = 0.913548
+run:lumi:evt:sampleId = 1:94537:94536492, Ciemat = 55.3338, Pi = 54.278, Ciemat - Pi = 1.05571
+run:lumi:evt:sampleId = 1:100076:100075529, Ciemat = 46.3714, Pi = 45.4867, Ciemat - Pi = 0.884716
+run:lumi:evt:sampleId = 1:101537:101536381, Ciemat = 85.6812, Pi = 84.0465, Ciemat - Pi = 1.6347
+run:lumi:evt:sampleId = 1:103016:103015265, Ciemat = 48.5935, Pi = 49.2554, Ciemat - Pi = -0.661842
+run:lumi:evt:sampleId = 1:104271:104270539, Ciemat = 50.4476, Pi = 51.4288, Ciemat - Pi = -0.981205
+run:lumi:evt:sampleId = 1:105681:105680331, Ciemat = 172.134, Pi = 166.803, Ciemat - Pi = 5.33099
+run:lumi:evt:sampleId = 1:106622:106621391, Ciemat = 80.9037, Pi = 82.4773, Ciemat - Pi = -1.57358
+run:lumi:evt:sampleId = 1:107012:107011373, Ciemat = 92.8898, Pi = 94.6965, Ciemat - Pi = -1.80671
+run:lumi:evt:sampleId = 1:107935:107934769, Ciemat = 42.0005, Pi = 41.3705, Ciemat - Pi = 0.630009
+run:lumi:evt:sampleId = 1:109582:109581159, Ciemat = 71.8295, Pi = 73.2265, Ciemat - Pi = -1.39708
+run:lumi:evt:sampleId = 1:109924:109923460, Ciemat = 56.0259, Pi = 57.1156, Ciemat - Pi = -1.0897
+run:lumi:evt:sampleId = 1:114447:114446795, Ciemat = 82.9114, Pi = 84.524, Ciemat - Pi = -1.61263
+run:lumi:evt:sampleId = 1:114457:114456776, Ciemat = 211.31, Pi = 215.42, Ciemat - Pi = -4.10999
+run:lumi:evt:sampleId = 1:115582:115581655, Ciemat = 168.666, Pi = 171.946, Ciemat - Pi = -3.28055
+run:lumi:evt:sampleId = 1:116946:116945958, Ciemat = 56.028, Pi = 54.9591, Ciemat - Pi = 1.06895
+run:lumi:evt:sampleId = 1:118529:118528025, Ciemat = 136.39, Pi = 139.043, Ciemat - Pi = -2.65279
+run:lumi:evt:sampleId = 1:119416:119415606, Ciemat = 69.4039, Pi = 70.3492, Ciemat - Pi = -0.945282
+run:lumi:evt:sampleId = 1:120728:120727409, Ciemat = 58.5297, Pi = 59.3269, Ciemat - Pi = -0.797176
+run:lumi:evt:sampleId = 1:122364:122363558, Ciemat = 81.6056, Pi = 83.1928, Ciemat - Pi = -1.58723
+run:lumi:evt:sampleId = 1:124310:124309314, Ciemat = 106.171, Pi = 108.236, Ciemat - Pi = -2.06503
+run:lumi:evt:sampleId = 1:125116:125115218, Ciemat = 69.4725, Pi = 70.8237, Ciemat - Pi = -1.35124
+run:lumi:evt:sampleId = 1:125847:125846706, Ciemat = 62.3872, Pi = 61.1969, Ciemat - Pi = 1.19028
+run:lumi:evt:sampleId = 1:126520:126519251, Ciemat = 108.336, Pi = 106.88, Ciemat - Pi = 1.4557
+run:lumi:evt:sampleId = 1:129898:129897710, Ciemat = 72.963, Pi = 71.8685, Ciemat - Pi = 1.09444
+run:lumi:evt:sampleId = 1:130030:130029537, Ciemat = 70.59, Pi = 69.2432, Ciemat - Pi = 1.34678
+run:lumi:evt:sampleId = 1:131968:131967615, Ciemat = 110.36, Pi = 108.254, Ciemat - Pi = 2.10555
+run:lumi:evt:sampleId = 1:132260:132259555, Ciemat = 41.1249, Pi = 41.9247, Ciemat - Pi = -0.799877
+run:lumi:evt:sampleId = 1:138005:138004122, Ciemat = 55.3087, Pi = 56.3845, Ciemat - Pi = -1.07576
+run:lumi:evt:sampleId = 1:140587:140586084, Ciemat = 69.3711, Pi = 68.0476, Ciemat - Pi = 1.32352
+run:lumi:evt:sampleId = 1:141488:141487258, Ciemat = 56.9677, Pi = 57.7436, Ciemat - Pi = -0.775902
+run:lumi:evt:sampleId = 1:144397:144396502, Ciemat = 81.9071, Pi = 80.3444, Ciemat - Pi = 1.5627
+run:lumi:evt:sampleId = 1:145728:145727762, Ciemat = 126.059, Pi = 128.511, Ciemat - Pi = -2.45185
+run:lumi:evt:sampleId = 1:147380:147379303, Ciemat = 46.993, Pi = 47.907, Ciemat - Pi = -0.914013
+run:lumi:evt:sampleId = 1:148924:148923253, Ciemat = 99.1193, Pi = 100.469, Ciemat - Pi = -1.35001
+tau2_pt bad events:
+run:lumi:evt:sampleId = 1:324:323142, Ciemat = 48.3365, Pi = 47.687, Ciemat - Pi = 0.649498
+run:lumi:evt:sampleId = 1:564:563336, Ciemat = 115.111, Pi = 111.546, Ciemat - Pi = 3.565
+run:lumi:evt:sampleId = 1:696:695203, Ciemat = 57.3069, Pi = 58.0874, Ciemat - Pi = -0.780518
+run:lumi:evt:sampleId = 1:1288:1287583, Ciemat = 195.604, Pi = 198.268, Ciemat - Pi = -2.66412
+run:lumi:evt:sampleId = 1:1751:1750554, Ciemat = 101.73, Pi = 100.204, Ciemat - Pi = 1.52595
+run:lumi:evt:sampleId = 1:3245:3244945, Ciemat = 46.8793, Pi = 45.9849, Ciemat - Pi = 0.894405
+run:lumi:evt:sampleId = 1:3414:3413767, Ciemat = 47.6833, Pi = 48.3328, Ciemat - Pi = -0.649448
+run:lumi:evt:sampleId = 1:3735:3734093, Ciemat = 102.965, Pi = 104.968, Ciemat - Pi = -2.00268
+run:lumi:evt:sampleId = 1:3989:3988694, Ciemat = 57.3084, Pi = 56.215, Ciemat - Pi = 1.09338
+run:lumi:evt:sampleId = 1:4977:4976821, Ciemat = 102.472, Pi = 104.465, Ciemat - Pi = -1.99308
+run:lumi:evt:sampleId = 1:5204:5203930, Ciemat = 78.5578, Pi = 77.059, Ciemat - Pi = 1.49879
+run:lumi:evt:sampleId = 1:5586:5585400, Ciemat = 53.0319, Pi = 54.0634, Ciemat - Pi = -1.03147
+run:lumi:evt:sampleId = 1:5743:5742370, Ciemat = 255.052, Pi = 251.226, Ciemat - Pi = 3.82579
+run:lumi:evt:sampleId = 1:9734:9733113, Ciemat = 60.8347, Pi = 58.9506, Ciemat - Pi = 1.88405
+run:lumi:evt:sampleId = 1:9830:9829999, Ciemat = 41.7411, Pi = 40.9447, Ciemat - Pi = 0.796375
+run:lumi:evt:sampleId = 1:10279:10278770, Ciemat = 66.9115, Pi = 65.6349, Ciemat - Pi = 1.2766
+run:lumi:evt:sampleId = 1:11563:11562165, Ciemat = 184.684, Pi = 188.276, Ciemat - Pi = -3.5921
+run:lumi:evt:sampleId = 1:11714:11713181, Ciemat = 157.343, Pi = 159.486, Ciemat - Pi = -2.14301
+run:lumi:evt:sampleId = 1:12022:12021756, Ciemat = 48.4409, Pi = 47.5167, Ciemat - Pi = 0.924202
+run:lumi:evt:sampleId = 1:12250:12249607, Ciemat = 377.217, Pi = 384.554, Ciemat - Pi = -7.33688
+run:lumi:evt:sampleId = 1:12652:12651488, Ciemat = 53.4454, Pi = 51.7902, Ciemat - Pi = 1.6552
+run:lumi:evt:sampleId = 1:12843:12842429, Ciemat = 166.406, Pi = 163.232, Ciemat - Pi = 3.17485
+run:lumi:evt:sampleId = 1:12846:12845941, Ciemat = 54.2512, Pi = 53.5222, Ciemat - Pi = 0.728973
+run:lumi:evt:sampleId = 1:13075:13074896, Ciemat = 78.6465, Pi = 77.146, Ciemat - Pi = 1.50049
+run:lumi:evt:sampleId = 1:13969:13968786, Ciemat = 74.5937, Pi = 73.1705, Ciemat - Pi = 1.42316
+run:lumi:evt:sampleId = 1:14001:14000846, Ciemat = 50.2302, Pi = 49.2719, Ciemat - Pi = 0.95834
+run:lumi:evt:sampleId = 1:14336:14335845, Ciemat = 44.4046, Pi = 45.0808, Ciemat - Pi = -0.676212
+run:lumi:evt:sampleId = 1:15878:15877239, Ciemat = 68.6013, Pi = 67.2924, Ciemat - Pi = 1.30884
+run:lumi:evt:sampleId = 1:16116:16115453, Ciemat = 98.5742, Pi = 99.9167, Ciemat - Pi = -1.34258
+run:lumi:evt:sampleId = 1:16857:16856038, Ciemat = 71.0832, Pi = 72.4658, Ciemat - Pi = -1.38257
+run:lumi:evt:sampleId = 1:16913:16912048, Ciemat = 277.789, Pi = 283.192, Ciemat - Pi = -5.40298
+run:lumi:evt:sampleId = 1:18022:18021438, Ciemat = 45.2015, Pi = 46.0807, Ciemat - Pi = -0.879169
+run:lumi:evt:sampleId = 1:20603:20602221, Ciemat = 76.4428, Pi = 77.4839, Ciemat - Pi = -1.04115
+run:lumi:evt:sampleId = 1:21864:21863424, Ciemat = 40.129, Pi = 40.6756, Ciemat - Pi = -0.546558
+run:lumi:evt:sampleId = 1:23084:23083809, Ciemat = 54.305, Pi = 55.3612, Ciemat - Pi = -1.05623
+run:lumi:evt:sampleId = 1:23177:23176207, Ciemat = 194.255, Pi = 191.645, Ciemat - Pi = 2.6102
+run:lumi:evt:sampleId = 1:25577:25576541, Ciemat = 55.036, Pi = 53.986, Ciemat - Pi = 1.05003
+run:lumi:evt:sampleId = 1:26582:26581421, Ciemat = 47.3593, Pi = 46.4557, Ciemat - Pi = 0.903564
+run:lumi:evt:sampleId = 1:26718:26717552, Ciemat = 133.833, Pi = 136.436, Ciemat - Pi = -2.60304
+run:lumi:evt:sampleId = 1:27298:27297387, Ciemat = 109.839, Pi = 111.976, Ciemat - Pi = -2.13638
+run:lumi:evt:sampleId = 1:27969:27968595, Ciemat = 54.9423, Pi = 53.8941, Ciemat - Pi = 1.04824
+run:lumi:evt:sampleId = 1:28138:28137590, Ciemat = 50.6106, Pi = 49.9305, Ciemat - Pi = 0.680054
+run:lumi:evt:sampleId = 1:28473:28472457, Ciemat = 77.6126, Pi = 79.1221, Ciemat - Pi = -1.50957
+run:lumi:evt:sampleId = 1:29198:29197538, Ciemat = 47.1616, Pi = 46.2619, Ciemat - Pi = 0.899792
+run:lumi:evt:sampleId = 1:29446:29445053, Ciemat = 60.2624, Pi = 61.0832, Ciemat - Pi = -0.820774
+run:lumi:evt:sampleId = 1:30349:30348245, Ciemat = 49.0902, Pi = 47.5699, Ciemat - Pi = 1.52032
+run:lumi:evt:sampleId = 1:30379:30378390, Ciemat = 139.064, Pi = 134.757, Ciemat - Pi = 4.30679
+run:lumi:evt:sampleId = 1:30803:30802690, Ciemat = 79.0572, Pi = 80.1339, Ciemat - Pi = -1.07676
+run:lumi:evt:sampleId = 1:31273:31272425, Ciemat = 40.9505, Pi = 40.1692, Ciemat - Pi = 0.781292
+run:lumi:evt:sampleId = 1:31732:31731924, Ciemat = 43.1114, Pi = 42.2889, Ciemat - Pi = 0.822521
+run:lumi:evt:sampleId = 1:31898:31897635, Ciemat = 50.1073, Pi = 50.7898, Ciemat - Pi = -0.682461
+run:lumi:evt:sampleId = 1:34578:34577178, Ciemat = 49.7178, Pi = 48.7693, Ciemat - Pi = 0.948563
+run:lumi:evt:sampleId = 1:36880:36879626, Ciemat = 55.4009, Pi = 54.344, Ciemat - Pi = 1.05699
+run:lumi:evt:sampleId = 1:38621:38620099, Ciemat = 307.347, Pi = 313.325, Ciemat - Pi = -5.97791
+run:lumi:evt:sampleId = 1:40161:40160400, Ciemat = 100.99, Pi = 102.954, Ciemat - Pi = -1.96425
+run:lumi:evt:sampleId = 1:40870:40869371, Ciemat = 55.5045, Pi = 54.6719, Ciemat - Pi = 0.832565
+run:lumi:evt:sampleId = 1:41018:41017490, Ciemat = 45.7851, Pi = 44.9116, Ciemat - Pi = 0.873531
+run:lumi:evt:sampleId = 1:42417:42416885, Ciemat = 148.571, Pi = 145.737, Ciemat - Pi = 2.83458
+run:lumi:evt:sampleId = 1:42586:42585008, Ciemat = 154.793, Pi = 157.803, Ciemat - Pi = -3.01071
+run:lumi:evt:sampleId = 1:42660:42659593, Ciemat = 105.781, Pi = 107.838, Ciemat - Pi = -2.05744
+run:lumi:evt:sampleId = 1:42759:42758537, Ciemat = 44.6023, Pi = 45.2815, Ciemat - Pi = -0.679222
+run:lumi:evt:sampleId = 1:44379:44378268, Ciemat = 111.363, Pi = 109.238, Ciemat - Pi = 2.12468
+run:lumi:evt:sampleId = 1:44473:44472327, Ciemat = 110.479, Pi = 108.372, Ciemat - Pi = 2.10783
+run:lumi:evt:sampleId = 1:48038:48037886, Ciemat = 45.3265, Pi = 45.9438, Ciemat - Pi = -0.617348
+run:lumi:evt:sampleId = 1:49530:49529090, Ciemat = 66.1156, Pi = 64.8542, Ciemat - Pi = 1.26141
+run:lumi:evt:sampleId = 1:49696:49695453, Ciemat = 81.5757, Pi = 80.0193, Ciemat - Pi = 1.55637
+run:lumi:evt:sampleId = 1:49819:49818146, Ciemat = 66.482, Pi = 65.2136, Ciemat - Pi = 1.2684
+run:lumi:evt:sampleId = 1:50421:50420935, Ciemat = 82.1626, Pi = 83.7607, Ciemat - Pi = -1.59806
+run:lumi:evt:sampleId = 1:53116:53115216, Ciemat = 130.265, Pi = 132.248, Ciemat - Pi = -1.98372
+run:lumi:evt:sampleId = 1:53406:53405699, Ciemat = 53.4614, Pi = 52.4414, Ciemat - Pi = 1.01999
+run:lumi:evt:sampleId = 1:53420:53419178, Ciemat = 155.972, Pi = 159.006, Ciemat - Pi = -3.03366
+run:lumi:evt:sampleId = 1:55946:55945978, Ciemat = 45.2471, Pi = 46.6932, Ciemat - Pi = -1.44609
+run:lumi:evt:sampleId = 1:56652:56651956, Ciemat = 80.2477, Pi = 77.7624, Ciemat - Pi = 2.48527
+run:lumi:evt:sampleId = 1:56994:56993124, Ciemat = 50.6147, Pi = 49.8555, Ciemat - Pi = 0.75922
+run:lumi:evt:sampleId = 1:57633:57632118, Ciemat = 52.029, Pi = 53.0409, Ciemat - Pi = -1.01196
+run:lumi:evt:sampleId = 1:57773:57772962, Ciemat = 107.97, Pi = 110.07, Ciemat - Pi = -2.10002
+run:lumi:evt:sampleId = 1:58650:58649470, Ciemat = 89.6982, Pi = 87.9868, Ciemat - Pi = 1.71134
+run:lumi:evt:sampleId = 1:59762:59761014, Ciemat = 59.049, Pi = 57.9224, Ciemat - Pi = 1.12659
+run:lumi:evt:sampleId = 1:60840:60839250, Ciemat = 52.9782, Pi = 51.9675, Ciemat - Pi = 1.01077
+run:lumi:evt:sampleId = 1:62894:62893105, Ciemat = 66.0081, Pi = 67.0134, Ciemat - Pi = -1.0052
+run:lumi:evt:sampleId = 1:62909:62908801, Ciemat = 145.099, Pi = 147.075, Ciemat - Pi = -1.97624
+run:lumi:evt:sampleId = 1:63827:63826084, Ciemat = 53.6571, Pi = 52.8522, Ciemat - Pi = 0.804855
+run:lumi:evt:sampleId = 1:63963:63962360, Ciemat = 80.5816, Pi = 82.1489, Ciemat - Pi = -1.56731
+run:lumi:evt:sampleId = 1:64488:64487369, Ciemat = 59.876, Pi = 60.6915, Ciemat - Pi = -0.81551
+run:lumi:evt:sampleId = 1:65208:65207529, Ciemat = 75.5663, Pi = 74.4328, Ciemat - Pi = 1.13349
+run:lumi:evt:sampleId = 1:65960:65959277, Ciemat = 68.8601, Pi = 70.1994, Ciemat - Pi = -1.33932
+run:lumi:evt:sampleId = 1:67880:67879656, Ciemat = 140.244, Pi = 142.154, Ciemat - Pi = -1.91013
+run:lumi:evt:sampleId = 1:68884:68883367, Ciemat = 76.7178, Pi = 78.2099, Ciemat - Pi = -1.49216
+run:lumi:evt:sampleId = 1:69180:69179222, Ciemat = 81.058, Pi = 79.5115, Ciemat - Pi = 1.5465
+run:lumi:evt:sampleId = 1:69325:69324253, Ciemat = 55.6904, Pi = 54.6279, Ciemat - Pi = 1.06251
+run:lumi:evt:sampleId = 1:69471:69470534, Ciemat = 67.2115, Pi = 66.2033, Ciemat - Pi = 1.00817
+run:lumi:evt:sampleId = 1:70460:70459525, Ciemat = 45.2007, Pi = 44.3383, Ciemat - Pi = 0.862381
+run:lumi:evt:sampleId = 1:71559:71558995, Ciemat = 98.2138, Pi = 96.8941, Ciemat - Pi = 1.31969
+run:lumi:evt:sampleId = 1:72402:72401570, Ciemat = 95.3294, Pi = 96.6278, Ciemat - Pi = -1.29839
+run:lumi:evt:sampleId = 1:74269:74268177, Ciemat = 82.0456, Pi = 83.6414, Ciemat - Pi = -1.59579
+run:lumi:evt:sampleId = 1:75789:75788005, Ciemat = 40.6224, Pi = 41.1757, Ciemat - Pi = -0.553276
+run:lumi:evt:sampleId = 1:77760:77759303, Ciemat = 69.8144, Pi = 67.6523, Ciemat - Pi = 2.16216
+run:lumi:evt:sampleId = 1:79262:79261341, Ciemat = 96.2387, Pi = 98.1105, Ciemat - Pi = -1.87184
+run:lumi:evt:sampleId = 1:79661:79660112, Ciemat = 43.5441, Pi = 42.959, Ciemat - Pi = 0.585102
+run:lumi:evt:sampleId = 1:81000:80999352, Ciemat = 67.3205, Pi = 68.6298, Ciemat - Pi = -1.30938
+run:lumi:evt:sampleId = 1:82549:82548357, Ciemat = 304.638, Pi = 310.563, Ciemat - Pi = -5.9252
+run:lumi:evt:sampleId = 1:82809:82808505, Ciemat = 91.8429, Pi = 90.0907, Ciemat - Pi = 1.75227
+run:lumi:evt:sampleId = 1:82871:82870122, Ciemat = 47.3916, Pi = 48.3133, Ciemat - Pi = -0.921764
+run:lumi:evt:sampleId = 1:83284:83283076, Ciemat = 357.792, Pi = 364.751, Ciemat - Pi = -6.95905
+run:lumi:evt:sampleId = 1:84619:84618797, Ciemat = 302.029, Pi = 296.267, Ciemat - Pi = 5.76239
+run:lumi:evt:sampleId = 1:85058:85057363, Ciemat = 54.3817, Pi = 53.6509, Ciemat - Pi = 0.730724
+run:lumi:evt:sampleId = 1:85397:85396344, Ciemat = 157.007, Pi = 160.061, Ciemat - Pi = -3.05379
+run:lumi:evt:sampleId = 1:88552:88551859, Ciemat = 41.7045, Pi = 40.9089, Ciemat - Pi = 0.795677
+run:lumi:evt:sampleId = 1:89065:89064034, Ciemat = 61.3419, Pi = 60.1716, Ciemat - Pi = 1.17034
+run:lumi:evt:sampleId = 1:90186:90185634, Ciemat = 46.2789, Pi = 47.758, Ciemat - Pi = -1.47906
+run:lumi:evt:sampleId = 1:91228:91227693, Ciemat = 60.1277, Pi = 58.9805, Ciemat - Pi = 1.14717
+run:lumi:evt:sampleId = 1:92835:92834289, Ciemat = 54.5027, Pi = 55.245, Ciemat - Pi = -0.742325
+run:lumi:evt:sampleId = 1:92888:92887338, Ciemat = 89.7435, Pi = 88.0312, Ciemat - Pi = 1.71221
+run:lumi:evt:sampleId = 1:93893:93892366, Ciemat = 60.703, Pi = 61.5297, Ciemat - Pi = -0.826775
+run:lumi:evt:sampleId = 1:94394:94393588, Ciemat = 239.796, Pi = 244.46, Ciemat - Pi = -4.66403
+run:lumi:evt:sampleId = 1:95919:95918098, Ciemat = 48.3302, Pi = 47.4081, Ciemat - Pi = 0.922089
+run:lumi:evt:sampleId = 1:96294:96293963, Ciemat = 81.3082, Pi = 82.8896, Ciemat - Pi = -1.58144
+run:lumi:evt:sampleId = 1:97025:97024063, Ciemat = 75.5689, Pi = 76.5982, Ciemat - Pi = -1.02925
+run:lumi:evt:sampleId = 1:97530:97529572, Ciemat = 97.7927, Pi = 96.4787, Ciemat - Pi = 1.31404
+run:lumi:evt:sampleId = 1:98296:98295470, Ciemat = 63.0798, Pi = 61.8764, Ciemat - Pi = 1.2035
+run:lumi:evt:sampleId = 1:98486:98485320, Ciemat = 55.9193, Pi = 54.8524, Ciemat - Pi = 1.06688
+run:lumi:evt:sampleId = 1:98959:98958164, Ciemat = 134.245, Pi = 136.856, Ciemat - Pi = -2.61107
+run:lumi:evt:sampleId = 1:98976:98975442, Ciemat = 46.2737, Pi = 45.6519, Ciemat - Pi = 0.62178
+run:lumi:evt:sampleId = 1:99413:99412964, Ciemat = 67.0865, Pi = 66.0802, Ciemat - Pi = 1.00629
+run:lumi:evt:sampleId = 1:100311:100310929, Ciemat = 94.0509, Pi = 95.3319, Ciemat - Pi = -1.28098
+run:lumi:evt:sampleId = 1:101664:101663929, Ciemat = 133.154, Pi = 130.614, Ciemat - Pi = 2.54044
+run:lumi:evt:sampleId = 1:103512:103511261, Ciemat = 63.3982, Pi = 62.1886, Ciemat - Pi = 1.20957
+run:lumi:evt:sampleId = 1:103603:103602182, Ciemat = 53.9994, Pi = 54.7349, Ciemat - Pi = -0.735474
+run:lumi:evt:sampleId = 1:103901:103900697, Ciemat = 46.8875, Pi = 47.5261, Ciemat - Pi = -0.638607
+run:lumi:evt:sampleId = 1:105098:105097258, Ciemat = 60.7417, Pi = 61.569, Ciemat - Pi = -0.827301
+run:lumi:evt:sampleId = 1:105139:105138230, Ciemat = 65.6265, Pi = 66.903, Ciemat - Pi = -1.27644
+run:lumi:evt:sampleId = 1:106990:106989360, Ciemat = 155.462, Pi = 157.58, Ciemat - Pi = -2.1174
+run:lumi:evt:sampleId = 1:109938:109937768, Ciemat = 47.0105, Pi = 47.6508, Ciemat - Pi = -0.640282
+run:lumi:evt:sampleId = 1:110639:110638060, Ciemat = 48.8863, Pi = 49.5522, Ciemat - Pi = -0.665833
+run:lumi:evt:sampleId = 1:111074:111073235, Ciemat = 47.2316, Pi = 46.3305, Ciemat - Pi = 0.901127
+run:lumi:evt:sampleId = 1:111149:111148385, Ciemat = 50.2339, Pi = 50.9181, Ciemat - Pi = -0.684185
+run:lumi:evt:sampleId = 1:112255:112254562, Ciemat = 72.6389, Pi = 71.6629, Ciemat - Pi = 0.976051
+run:lumi:evt:sampleId = 1:113263:113262641, Ciemat = 55.7212, Pi = 54.6581, Ciemat - Pi = 1.0631
+run:lumi:evt:sampleId = 1:116298:116297123, Ciemat = 140.146, Pi = 137.472, Ciemat - Pi = 2.67383
+run:lumi:evt:sampleId = 1:117220:117219501, Ciemat = 43.8333, Pi = 44.4303, Ciemat - Pi = -0.597008
+run:lumi:evt:sampleId = 1:119374:119373473, Ciemat = 53.398, Pi = 54.1253, Ciemat - Pi = -0.72728
+run:lumi:evt:sampleId = 1:120256:120255806, Ciemat = 51.8709, Pi = 50.8812, Ciemat - Pi = 0.989639
+run:lumi:evt:sampleId = 1:122484:122483476, Ciemat = 54.7554, Pi = 53.7108, Ciemat - Pi = 1.04467
+run:lumi:evt:sampleId = 1:123658:123657787, Ciemat = 42.0827, Pi = 42.6559, Ciemat - Pi = -0.573166
+run:lumi:evt:sampleId = 1:123906:123905223, Ciemat = 279.338, Pi = 284.771, Ciemat - Pi = -5.43314
+run:lumi:evt:sampleId = 1:124008:124007157, Ciemat = 50.7627, Pi = 49.1906, Ciemat - Pi = 1.57212
+run:lumi:evt:sampleId = 1:124087:124086789, Ciemat = 57.2039, Pi = 56.1125, Ciemat - Pi = 1.09139
+run:lumi:evt:sampleId = 1:124774:124773380, Ciemat = 209.174, Pi = 212.023, Ciemat - Pi = -2.84895
+run:lumi:evt:sampleId = 1:125162:125161210, Ciemat = 71.5634, Pi = 72.5381, Ciemat - Pi = -0.974693
+run:lumi:evt:sampleId = 1:125181:125180842, Ciemat = 50.7663, Pi = 51.4577, Ciemat - Pi = -0.691437
+run:lumi:evt:sampleId = 1:126738:126737892, Ciemat = 90.9915, Pi = 92.2308, Ciemat - Pi = -1.2393
+run:lumi:evt:sampleId = 1:127274:127273527, Ciemat = 47.8585, Pi = 49.3881, Ciemat - Pi = -1.52955
+run:lumi:evt:sampleId = 1:127590:127589830, Ciemat = 51.3568, Pi = 50.6668, Ciemat - Pi = 0.690083
+run:lumi:evt:sampleId = 1:128604:128603103, Ciemat = 157.233, Pi = 160.292, Ciemat - Pi = -3.05818
+run:lumi:evt:sampleId = 1:130402:130401989, Ciemat = 47.918, Pi = 47.0038, Ciemat - Pi = 0.914223
+run:lumi:evt:sampleId = 1:130596:130595602, Ciemat = 56.6622, Pi = 57.4339, Ciemat - Pi = -0.77174
+run:lumi:evt:sampleId = 1:131208:131207129, Ciemat = 57.726, Pi = 56.9503, Ciemat - Pi = 0.775665
+run:lumi:evt:sampleId = 1:131491:131490149, Ciemat = 87.4072, Pi = 89.1073, Ciemat - Pi = -1.70007
+run:lumi:evt:sampleId = 1:131843:131842640, Ciemat = 42.6771, Pi = 43.5072, Ciemat - Pi = -0.83007
+run:lumi:evt:sampleId = 1:133253:133252016, Ciemat = 53.827, Pi = 52.8, Ciemat - Pi = 1.02696
+run:lumi:evt:sampleId = 1:133388:133387424, Ciemat = 128.614, Pi = 124.631, Ciemat - Pi = 3.98318
+run:lumi:evt:sampleId = 1:135247:135246851, Ciemat = 47.9545, Pi = 47.0396, Ciemat - Pi = 0.914921
+run:lumi:evt:sampleId = 1:135417:135416430, Ciemat = 56.1174, Pi = 55.2756, Ciemat - Pi = 0.841759
+run:lumi:evt:sampleId = 1:137564:137563978, Ciemat = 57.0297, Pi = 55.9417, Ciemat - Pi = 1.08807
+run:lumi:evt:sampleId = 1:139042:139041011, Ciemat = 77.5165, Pi = 79.0242, Ciemat - Pi = -1.5077
+run:lumi:evt:sampleId = 1:139059:139058904, Ciemat = 44.4845, Pi = 43.8867, Ciemat - Pi = 0.597736
+run:lumi:evt:sampleId = 1:142076:142075979, Ciemat = 44.7175, Pi = 43.3326, Ciemat - Pi = 1.3849
+run:lumi:evt:sampleId = 1:142284:142283983, Ciemat = 587.334, Pi = 598.758, Ciemat - Pi = -11.4236
+run:lumi:evt:sampleId = 1:143154:143153225, Ciemat = 65.6131, Pi = 66.5067, Ciemat - Pi = -0.893654
+run:lumi:evt:sampleId = 1:143208:143207614, Ciemat = 74.4918, Pi = 73.0705, Ciemat - Pi = 1.42122
+run:lumi:evt:sampleId = 1:145664:145663298, Ciemat = 53.8824, Pi = 52.8543, Ciemat - Pi = 1.02802
+run:lumi:evt:sampleId = 1:146187:146186598, Ciemat = 42.2445, Pi = 41.4386, Ciemat - Pi = 0.805981
+run:lumi:evt:sampleId = 1:146842:146841313, Ciemat = 48.5675, Pi = 49.229, Ciemat - Pi = -0.661491
+run:lumi:evt:sampleId = 1:147187:147186456, Ciemat = 60.2302, Pi = 59.0811, Ciemat - Pi = 1.14913
+run:lumi:evt:sampleId = 1:148922:148921128, Ciemat = 47.065, Pi = 47.9804, Ciemat - Pi = -0.915413
+run:lumi:evt:sampleId = 1:149784:149783292, Ciemat = 44.0709, Pi = 43.2301, Ciemat - Pi = 0.840824
+tau1_decayMode bad events:
+tau2_decayMode bad events:
+tau1_eta bad events:
+tau2_eta bad events:
